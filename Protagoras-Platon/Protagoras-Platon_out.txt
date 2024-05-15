@@ -1,0 +1,2826 @@
+               Platon
+           Protagoras
+
+    [ou les Sophistes ; genre démonstratif]
+Traduction, notices et notes par Émile Chambry
+
+                PhiloSophie
+
+              © juin 2018
+                       Table des matières
+Notice sur le « Protagoras »
+Protagoras
+
+  I.
+  II.
+  III.
+  IV.
+  V.
+  VI.
+  VII.
+  VIII.
+  IX.
+  X.
+  XI.
+  XII.
+  XIII.
+  XIV.
+  XV.
+  XVI.
+  XVII.
+  XVIII.
+  XIX.
+  XX.
+  XXI.
+  XXII.
+  XXIII.
+  XXIV.
+  XXV.
+  XXVI.
+  XXVII.
+  XXVIII.
+  XXIX.
+  XXX.
+  XXXI.
+  XXXII.
+  XXXIII.
+  XXXIV.
+  XXXV.
+  XXXVI.
+  XXXVII.
+  XXXVIII.
+  XXXIX.
+  XL.
+À propos de cette édition électronique
+           Notice sur le « Protagoras »
+
+   On pourrait appeler le Protagoras une comédie philosophique : la
+distribution du sujet en actes marqués par des intermèdes, la peinture des
+caractères, la touche exacte et pittoresque dans l’invention du détail, l’ironie
+fine et légère, la parodie et la caricature, en un mot toutes les ressources de
+l’art dramatique servent à égayer la gravité de la matière, et l’aisance avec
+laquelle Platon les emploie fait souvenir qu’avant de s’adonner à la
+philosophie il avait été séduit par le théâtre, et que l’admiration exclusive que
+lui inspira Socrate a peut-être coûté à la Grèce un grand poète comique.
+L’idée du Protagoras semble avoir été empruntée à la comédie d’Eupolis, les
+Flatteurs, qui remporta le prix sur la Paix d’Aristophane en 421 av. J. -C.
+Eupolis avait placé la scène de sa pièce dans la maison du riche Callias, fils
+d’Hipponicos, le vainqueur de Tanagra (en 426), et les flatteurs désignés par
+le titre n’étaient autres que les sophistes, au nombre desquels figurait
+Socrate ; dans cette troupe de parasites qui aidaient Callias à dévorer son
+patrimoine, Protagoras tenait le premier rôle. C’est aussi chez Callias qu’a
+lieu le dialogue de Platon, et c’est aussi sur les sophistes, en particulier sur
+Protagoras, que tombent les traits de la satire ; mais au lieu d’être confondu
+avec les sophistes, Socrate est ici dans son vrai rôle : c’est lui qui les combat
+et les perce de son ironie.
+   Le siècle qui vit naître les luttes mémorables de Socrate et des sophistes
+est une des époques les plus intéressantes de l’histoire de la philosophie. Or il
+semble que Platon ait voulu dans le Protagoras tracer pour la postérité le
+tableau de cette vie intellectuelle intense qui fut celle d’Athènes au temps de
+Périclès, et perpétuer le souvenir des controverses pour lesquelles la jeunesse
+athénienne se passionnait alors. Athènes était le « prytanée » intellectuel et le
+rendez-vous des hommes de talent du monde grec. Sans parler des
+philosophes Anaxagore, Archélaos, maître de Socrate, Diogène d’Apollonie,
+les sophistes Protagoras d’Abdère, Gorgias de Léontium, Prodicos de Céos,
+Hippias d’Élis vinrent s’y établir ou y séjourner. Ils y apportaient des
+nouveautés propres à intéresser la jeunesse, surtout la jeunesse ambitieuse de
+jouer un rôle politique. On a dit que Socrate avait fait descendre la
+philosophie du ciel sur la terre : les sophistes l’avaient tenté avant lui. C’est à
+l’homme en effet et aux expressions diverses de sa vie spirituelle que les
+sophistes s’intéressaient avant tout : langue, poésie, dialectique, rhétorique,
+arts, politique et religion, voilà quels furent les objets essentiels de leur
+activité. Ils cherchaient à acquérir sur l’homme la plus grande somme de
+connaissances possibles, dans le but d’apprendre, puis d’enseigner l’art de
+bien vivre. Ils furent des maîtres de sagesse ; c’est ce que veut dire leur nom
+même de sophistes. Leurs disciples préférés furent les jeunes gens riches que
+tentait la politique. Ils les dressaient au rôle d’hommes d’État par des
+exercices de rhétorique, de dialectique, de critique, où la lecture des poètes
+tenait une place importante. Comme la grande question pour un homme
+politique est de l’emporter sur son adversaire, il arriva que les sophistes
+insistèrent moins sur la justice et la vérité que sur la vraisemblance et sur les
+artifices de la rhétorique. C’était un abus que les poètes comiques relevèrent à
+l’envi, abus d’autant plus dangereux que les théories philosophiques de
+certains sophistes, Protagoras et Gorgias, semblaient les justifier. Outre ces
+cours de rhétorique, pour lesquels ils exigeaient des honoraires élevés (le taux
+ordinaire variait de 143 à 200 francs, mais monta parfois jusqu’à 4990
+francs), les sophistes donnaient des conférences populaires dans les maisons
+privées ou dans les gymnases à des prix plus accessibles au public (de 1/2 à 4
+drachmes d’entrée). Là, ils prononçaient des discours soigneusement préparés
+ou se livraient à l’improvisation sur des sujets fournis par les assistants.
+   Tels étaient les hommes dont Socrate combattait les pratiques et les
+doctrines. Ils avaient un grand nom dans le monde grec, leur influence était
+considérable, et leurs disciples leur étaient très attachés. Le plus illustre peut-
+être était Protagoras d’Abdère (485-411). Il parcourut la Grèce, la Sicile et la
+Grande-Grèce, et séjourna longtemps à Athènes, où il gagna la confiance de
+Périclès. Accusé d’impiété pour un écrit qui commençait ainsi : « Pour les
+dieux, je ne sais s’ils sont ou s’ils ne sont pas », il se déroba par la fuite à une
+condamnation, mais il périt en mer. Disciple d’Héraclite, il professait que
+l’homme est la mesure de toute chose, théorie qui aboutit logiquement à la
+négation de toute vertu et de toute moralité ; mais dans la pratique Protagoras
+n’était pas conséquent avec lui-même ; il suivait dans son enseignement les
+idées traditionnelles sur la vertu et la piété. Esprit curieux et pénétrant, il
+fonda l’art grammatical, et fut un professeur d’éloquence fort goûté. Son
+influence fut si grande que Platon consacra deux dialogues à l’exposition et à
+la réfutation de ses doctrines ; il attaqua sa théorie de la connaissance dans le
+Théétète et sa théorie de la vertu dans le Protagoras.
+   Protagoras avait un rival célèbre dans l’art de la rhétorique, c’était
+Gorgias de Léontium (483-375), maître de Thucydide et d’Isocrate ; mais il
+ne figure pas dans notre dialogue. Platon le considérait sans doute comme un
+personnage trop important pour lui donner ici un rôle effacé, comme à
+Prodicos et à Hippias, et il lui a consacré un dialogue entier, le Gorgias.
+   Prodicos de Céos qui tint école à Athènes vers 430 av. J.-C. est surtout
+connu par sa doctrine sur les dieux, qui furent d’abord, selon lui, les objets
+qui nourrissent l’homme et lui sont utiles (soleil, lune, Nil), puis les
+inventeurs des arts et des cultures nourricières (Héphaistos, Déméter,
+Dionysos). Il est l’auteur du beau mythe d’Hercule entre le vice et la vertu.
+Enfin il est le premier en date des synonymistes, et Platon parodie fort
+ingénieusement sa manie d’insérer dans ses discours des synonymes qui lui
+donnent l’occasion d’étaler sa finesse.
+   Hippias d’Élis qui florissait vers 460 avait une science étendue :
+astronomie, mathématiques, esthétique de la poésie et des arts, mythologie,
+littérature et histoire, tout était de sa compétence. Il avait rassemblé ses
+connaissances dans un livre intitulé « Somme ». Il professait en morale une
+sorte de retour à la nature ; il opposait au sentiment étroit de la nationalité la
+parenté naturelle de tous les hommes, à l’orgueil de caste l’égalité sociale ;
+enfin il recommandait aux hommes de s’affranchir des besoins du luxe et de
+se suffire à eux-mêmes. C’est un lointain précurseur de J. -J. Rousseau.
+   Le riche Callias, chez qui les sophistes trouvaient une large hospitalité,
+appartenait à la famille des hérauts qui remontait à Triptolème ; il était par
+droit héréditaire porteur de torche à Éleusis et hôte de Lacédémone. Son père
+Hipponicos, qui avait vaincu les Béotiens à Tanagra en 426, tomba deux ans
+plus tard au combat malheureux de Délion. Lui-même fut stratège dans la
+guerre de Corinthe en 390. Sa mère avait épousé en secondes noces Périclès.
+   Une brillante société se presse chez lui pour entendre les sophistes. Ce
+sont d’abord ses frères utérins, les fils de Périclès, Paralos et Xanthippe ; puis
+Charmide, l’oncle de Platon, grand amateur de philosophie, ce qui lui a valu
+l’honneur de donner son nom à un dialogue de son neveu ; il fut l’un des Dix
+qui gouvernèrent Athènes après la victoire de Lysandre ; puis Critias,
+« profane parmi les philosophes, philosophe parmi les profanes » ; il fut un
+des trente Tyrans et mourut avec Charmide à la bataille de Munychie en 404 ;
+il était aussi parent de Platon ; puis quatre personnages qui sont ici muets,
+mais qui tiennent des rôles importants dans le Banquet : le médecin
+Éryximaque et son ami Phèdre, interlocuteur de Socrate dans le Phèdre,
+                                1
+Agathon et son inséparable ami Pausanias .
+   La discussion porte sur l’enseignement des sophistes, et particulièrement
+sur celui de Protagoras. Protagoras se donne pour un professeur de vertu : est-
+il instruit de ce qu’il enseigne, et pourrait-il définir ce qu’est en elle-même la
+vertu ? L’occasion qui amène Socrate à lui poser ces questions nous est
+rapportée dans une sorte d’introduction dialoguée entre Socrate et son jeune
+ami Hippocrate. De grand matin, Hippocrate était allé heurter à la porte de
+Socrate : il avait appris la veille l’arrivée de Protagoras à Athènes, et, sans
+savoir au juste en quoi consistait l’enseignement du sophiste, il ne tenait plus
+d’impatience de l’entendre et de s’attacher à lui. Socrate consent à le
+présenter à Protagoras, mais il se réserve d’interroger le sophiste et de
+soumettre ses réponses à un examen rigoureux.
+   Ils se rendent donc chez Callias. En pénétrant dans le vestibule, ils
+s’arrêtent un moment à contempler la scène qui s’offre à eux. Sur le devant
+du portique Protagoras se promenait, ayant d’un côté Callias, Paralos et
+Charmide, de l’autre Xanthippe, Phidippide et Antimoiros de Mende, qui tous
+marchaient en ligne avec lui, tandis qu’une foule d’autres les suivaient en
+prêtant l’oreille. Au fond du portique, sur un siège élevé, Hippias d’Élis
+répondait aux questions d’Éryximaque et de Phèdre et de quelques autres ;
+enfin on apercevait, couché dans une chambre, Prodicos de Céos, et, près de
+son lit, ses disciples Pausanias, Agathon et d’autres. Alcibiade et Critias
+arrivent quelques moments après.
+   Socrate présente à Protagoras le jeune Hippocrate et le prie de s’expliquer
+sur son art. Protagoras, flatté de la préférence qu’on lui donne, saisit
+l’occasion de montrer à ses collègues en sophistique le cas qu’on fait de lui,
+et le cas que lui-même fait de son art. Il propose en conséquence de
+s’expliquer devant toute la compagnie. Aussitôt Hippias, Prodicos et leurs
+disciples se groupent autour de lui. Socrate alors lui renouvelle sa question et
+lui demande quels avantages Hippocrate doit retirer de son commerce. – Je
+lui apprendrai, dit Protagoras, à gouverner ses affaires et celles de l’État. –
+C’est la politique dont tu parles, répond Socrate. – Oui. – Jusqu’ici, dit
+Socrate, j’avais cru que cette science ne pouvait être enseignée, et cela pour
+deux raisons : la première, c’est que dans les assemblées publiques on
+n’écoute que les gens de métier en toute affaire qui exige des connaissances
+spéciales, et qu’on écoute tout le monde en matière politique, sans exiger
+qu’on ait fait aucune étude de la politique, et la deuxième, c’est que les
+grands hommes eux-mêmes sont incapables de communiquer leur vertu à
+leurs enfants.
+   Protagoras répond par une fable : Quand les dieux eurent façonné les
+êtres vivants, ils chargèrent Prométhée et Épiméthée de leur distribuer les
+qualités nécessaires à leur existence. Épiméthée, qui fit la distribution, oublia
+l’homme. Pour réparer cet oubli, Prométhée ravit à Minerve et à Vulcain le
+secret des arts et du feu ; mais incapables de fonder une communauté
+politique, les hommes vivaient dispersés, à la merci des bêtes de proie, et ils
+auraient péri si Jupiter ne leur eût fait donner à tous la pudeur et la justice,
+fondements de la politique ; et voilà pourquoi dans les assemblées de la cité
+on écoute indifféremment tout le monde quand il s’agit de politique. D’autre
+part, ce qui prouve que ces vertus peuvent être enseignées, c’est qu’on punit
+ceux qui ne les ont pas, tandis qu’on ne reproche à personne des défauts
+physiques, comme la laideur et la maladie. Or si l’on punit, c’est en vue
+d’améliorer le coupable et de détourner les autres de l’imiter, c’est-à-dire
+d’enseigner la vertu. C’est le but de toute l’éducation à Athènes : pères,
+mères, nourrices, précepteurs s’y emploient à l’envi ; l’État lui-même par ses
+lois commande et enseigne la vertu. Si les fils des grands hommes sont moins
+vertueux que leurs pères, ce n’est pas qu’on néglige de les instruire, bien au
+contraire ; c’est qu’ils sont doués de moindres aptitudes. Ils ne semblent
+d’ailleurs mauvais que par comparaison avec les meilleurs ; confrontés à des
+sauvages sans culture, ils paraîtraient des modèles de vertu.
+   Socrate se déclare persuadé ; mais pour enseigner la vertu, il faut savoir
+exactement en quoi elle consiste. Protagoras le sait-il ? Sait-il si la vertu est
+une en soi, ou comprend des parties distinctes ? Il déclare que la justice, la
+piété, la tempérance, la sagesse et le courage sont des parties de la vertu aussi
+distinctes que le sont les parties du visage, des parties qualitatives, comme
+nous dirions, et non quantitatives. Mais Socrate l’amène, en lui montrant que
+la justice ne saurait être quelque chose d’impie, ni la piété quelque chose
+d’injuste, à reconnaître, sinon qu’elles sont identiques, au moins qu’elles ont
+des rapports de ressemblance ; puis, se fondant sur ce principe qu’un
+contraire n’a qu’un seul contraire, il essaie de prouver que la tempérance,
+σωφροσύνη, et la sagesse, σοφίχ, sont identiques, parce que toutes deux sont,
+dans l’usage de la langue grecque, le contraire de la folie, άφρούνη. Enfin il
+s’apprêtait à démontrer que la tempérance et la justice se confondent, en
+s’appuyant sur l’équivalence du bien et de l’utile ; mais Protagoras qui goûte
+peu cette « maïeutique » se dérobe, et fait sur la relativité de l’utile un
+discours peu pertinent qui impatiente Socrate.
+   Il n’entend rien, dit-il, aux longs discours, et si Protagoras ne veut pas se
+proportionner à la faiblesse de son esprit et répondre brièvement, il rompra
+l’entretien. Il se lève même pour se retirer ; mais Callias le retient, et
+Alcibiade et Critias interviennent pour amener Protagoras et Socrate à
+composition. Prodicos et Hippias s’entremettent aussi, et profitent de
+l’occasion pour étaler, le premier, tout un choix de distinctions
+synonymiques, le second, sa théorie favorite sur la tyrannie de la loi. Les
+deux champions consentent enfin à renouer l’entretien.
+   Après cet intermède qui coupe agréablement une discussion qui devenait
+ardue, Protagoras porte l’entretien sur le terrain de la poésie, sous prétexte
+que l’explication des poètes est une partie essentielle de l’éducation, et il
+entreprend de démontrer que Simonide se contredit dans une pièce adressée à
+Scopas, quand il dit lui-même qu’il est difficile de devenir vertueux et qu’il
+blâme ensuite Pittacos d’avoir dit qu’il est difficile d’être vertueux. Pour
+résoudre la contradiction, Socrate suggère une interprétation insoutenable,
+qu’il fait malignement endosser à Prodicos, c’est que le mot χαλεπόξ,
+difficile, est employé au sens de mauvais (χαχεόξ). Il la répudie d’ailleurs
+aussitôt pour proposer sa propre interprétation : c’est que Simonide a voulu
+dire qu’il est difficile, mais possible de devenir vertueux pour un temps, mais
+qu’il est non seulement difficile, comme l’a dit Pittacos, mais impossible de
+l’être toujours. Aussi faut-il, sans aspirer à un idéal audessus de l’humanité,
+louer volontairement l’homme qui ne commet pas le mal. En réalité,
+Simonide a écrit :
+   Il faut louer l’homme qui ne commet pas volontairement le mal. Mais
+Socrate n’admet pas qu’on fasse le mal volontairement : c’est contraire à sa
+théorie que la vertu est la connaissance et le vice l’ignorance du bien. Aussi
+a-t-il donné une entorse au texte de Simonide, pour y retrouver ses propres
+idées. Il déclare d’ailleurs qu’il n’y a aucun profit à tirer de l’étude des
+poètes, parce que chacun les interprète comme il l’entend, et il prie
+Protagoras de revenir à la question de l’unité de la vertu. Protagoras y
+consent, mais de mauvaise grâce.
+   Il reconnaît que quatre vertus, la justice, la tempérance, la sagesse et la
+piété, sont assez semblables entre elles, mais il maintient que le courage est
+tout à fait différent. – Ne penses-tu pas, dit Socrate, que la vertu est une chose
+belle de tout point ? – Si, répond Protagoras. – Le courage n’est-il pas la
+hardiesse ? – Si. – Mais une hardiesse déraisonnable, est-ce du courage ? –
+Non, c’est de la folie. – Il faut donc, pour qu’il y ait courage, qu’il y ait raison
+et connaissance, autrement le courage ne serait pas une belle chose, mais une
+chose folle ? – Oui. – Donc le courage se confond avec la sagesse. Mais
+Protagoras rejette cette conclusion, et soutient que si la hardiesse vient de la
+science, le courage est un don de la nature.
+   Au lieu de réfuter l’objection, Socrate se place à un autre point de vue. Il
+fait d’abord avouer à Protagoras que la science est toute-puissante sur
+l’homme qui la possède, puis, partant de ce principe qu’agréable et bon,
+désagréable et mauvais ne font qu’un dans leur essence et que personne ne
+choisit sciemment ce qui est désagréable et n’évite sciemment ce qui est
+agréable, il fait voir que, quand un homme fait le mal, parce qu’il est, comme
+on dit, vaincu par le plaisir, c’est qu’il s’est trompé dans ses mesures des
+choses agréables et des choses désagréables, qu’il a péché faute de science.
+Or qu’est-ce que la crainte, sinon l’attente d’un mal ? Donc, quand un homme
+craint une chose, c’est qu’il la croit mauvaise, et les lâches ne sont lâches que
+par l’ignorance où ils sont des choses à craindre ; et, si le courage est le
+contraire de la lâcheté, il faut qu’il soit la connaissance des choses à craindre
+et de celles qui ne le sont point.
+   Ainsi toute vertu est science et par conséquent peut être enseignée. C’est
+la conclusion où la dialectique a conduit les deux interlocuteurs, conclusion
+contraire à l’opinion que chacun d’eux professait avant la discussion.
+L’entretien se termine par des compliments de Protagoras à Socrate : il lui
+prédit qu’il prendra place un jour parmi les sages.
+   On s’est demandé souvent quel était l’objet essentiel du Protagoras, et les
+critiques n’ont pas encore pu se mettre d’accord. C’est qu’en effet l’œuvre est
+complexe. L’accessoire scénique y occupe une telle place qu’on pourrait
+croire que le but essentiel de l’auteur a été de présenter un tableau du
+mouvement philosophique à Athènes au temps où Socrate entamait la lutte
+avec les sophistes. D’autre part la peinture de ces singuliers maîtres de
+morale qui trafiquent de la vertu sans être capables de la définir, et qui, au
+lieu de rechercher sincèrement la vérité, ne songent qu’à faire parade de leur
+virtuosité et à éclipser leurs rivaux ou à se disputer les élèves riches, a fait
+longtemps regarder ce dialogue comme une critique de la méthode et de
+l’esprit des sophistes, auxquels Platon oppose la méthode et l’esprit de
+Socrate, c’est-à-dire la dialectique et la passion de la vérité pour elle-même.
+Et c’est évidemment ce qu’a voulu faire Platon ; mais ce n’est là qu’un côté
+de son œuvre. Une recherche bien menée doit aboutir à des résultats positifs.
+Celle que Socrate a poursuivie avec la collaboration de Protagoras a
+démontré que la vertu est une, qu’elle n’est autre chose que la science, et que
+par conséquent elle est susceptible d’être enseignée. Outre ce résultat
+essentiel, Socrate a établi aussi que le bon est l’utile ou plus exactement
+l’agréable, mais l’agréable bien entendu, et que le bonheur consiste dans le
+contentement durable que procure l’action morale, le déplaisir ou le malheur
+dans les conséquences inévitables d’une conduite immorale. L’ontologie de
+Platon se dessine ainsi dans ce dialogue ; elle aura sa forme dernière dans la
+doctrine des Idées ; mais quand il appelle la justice πράγµά (quelque chose de
+réel) et les autres vertus χρήµατα (des choses), et qu’il demande s’il y a sous
+chaque nom de vertu une substance ou une chose ayant sa force propre, c’est
+déjà une amorce de la doctrine des Idées qu’il présente ici. Ainsi le dialogue
+est un essai de morale indépendante : il fonde la morale sur la science et
+aboutit par conséquent au déterminisme intellectuel.
+   Il reste quelques mots à dire sur la date de l’entretien entre Protagoras et
+Socrate, et sur la date de la composition. L’entretien semble pouvoir se placer
+entre 432 et 430 avant J. -C., en tout cas avant l’année 429, puisque c’est en
+429 que moururent les deux fils de Périclès, présents à la réunion. Il est vrai
+qu’il est question dans le dialogue des Sauvages, pièce de Phérécrate qui fut
+jouée en 421, et que Callias a déjà hérité de son père qui ne mourra que dix
+ans plus tard ; mais Platon est coutumier de ces anachronismes ; il vise à la
+vérité idéale plutôt qu’à la vérité historique ; or la pièce d’Eupolis les
+Flatteurs avait imposé au public cette idée que la maison de Callias était le
+rendez-vous des sophistes. Platon a fait comme les poètes dramatiques qui
+préfèrent la légende populaire à la vérité historique sans racine dans
+l’imagination des spectateurs : il a opté pour la tradition établie et lui a
+sacrifié l’exactitude chronologique.
+   Divers indices nous font penser que le Protagoras est un ouvrage de
+jeunesse. Il n’y a pas longtemps sans doute que Platon a brûlé ses œuvres de
+théâtre ; car il est aussi préoccupé des effets dramatiques que de la recherche
+philosophique. En outre il reconnaît ici parmi les vertus la piété : c’est la
+doctrine de Socrate qu’il suit en ce point ; plus tard il ne reconnaîtra que
+quatre vertus, la justice, la tempérance, la sagesse et le courage. Il suit encore
+Socrate quand il ramène le bon à l’agréable, tandis que plus tard il
+déterminera plus profondément l’idée de bien. Toujours en conformité avec
+Socrate, il ne reconnaît que la vertu consciente, tandis que plus tard il
+admettra dans une certaine mesure la vertu naturelle qui repose sur l’opinion
+vraie.
+   Enfin la parenté des sujets pourrait faire conjecturer que le Protagoras est
+du même temps que le Lachès, le Charmide et le Lysis, qui traitent des vertus
+isolées, du courage, de la sagesse et de l’amitié. Le Protagoras, qui établit
+que la vertu est une, semble avoir été composé en manière de conclusion à
+ces trois ouvrages de jeunesse. On a même voulu, à cause de la gaieté qui
+pénètre tout le dialogue et de l’absence d’allusion à la mort de Socrate, placer
+la composition de cet ouvrage avant la mort de Socrate. Mais au point de vue
+artistique, par la composition, par la vérité et l’ampleur du développement,
+par le nombre des personnages et le dessin des caractères, par les tableaux
+brillants, les détails pittoresques et la grâce et le charme du style, le
+Protagoras est un progrès sur les ouvrages déjà si attrayants du Lachès, du
+Charmide et du Lysis et doit être vraisemblablement placé à leur suite.
+                      Protagoras
+
+               [ou les Sophistes ; genre démonstratif]
+   Personnages du dialogue : d’abord un ami de Socrate et Socrate ; ensuite
+Hippocrate, Protagoras, Alcibiade, Critias, Prodicos, Hippias.
+   L’AMI DE SOCRATE
+I.
+
+   – D’où viens-tu, Socrate ? sans doute de la chasse, de la chasse à la
+beauté d’Alcibiade ? À dire vrai, je l’ai vu il n’y a pas longtemps, et je trouve
+que c’est toujours un bel homme, mais un homme pourtant, soit dit entre
+nous, Socrate, et déjà bien barbu.
+   SOCRATE
+   Eh bien ! qu’est-ce que cela fait ? n’es-tu pas de l’avis d’Homère qui a dit
+                                             2
+que l’âge le plus charmant était celui du premier duvet , justement l’âge
+d’Alcibiade ?
+   L’AMI DE SOCRATE
+   Alors, à quel point en es-tu ? Viens-tu de le quitter ? Comment le jeune
+homme est-il disposé à ton égard ?
+   SOCRATE
+   Bien, ce me semble, et aujourd’hui mieux que jamais ; car il a pris mon
+parti plus d’une fois, et je viens seulement de le quitter. Je vais cependant te
+dire une chose qui te surprendra : c’est qu’en sa présence je n’ai pas fait
+attention à lui, et que j’ai oublié souvent qu’il était là.
+   L’AMI DE SOCRATE
+   Qu’est-ce qui peut bien vous être arrivé de si grave à tous deux ? tu n’as
+pourtant pas rencontré de plus beau garçon que lui, du moins dans notre
+ville ?
+   SOCRATE
+   Si, beaucoup plus beau.
+   L’AMI DE SOCRATE
+   Que dis-tu ? Est-ce un Athénien ou un étranger ?
+   SOCRATE
+   Un étranger.
+   L’AMI DE SOCRATE
+   D’où est-il ?
+   SOCRATE D’Abdère.
+   L’AMI DE SOCRATE
+   Et cet étranger t’a paru si beau qu’il surpasse à tes yeux le fils de
+Clinias ?
+   SOCRATE
+   Et comment, mon cher, le plus sage ne paraîtrait-il pas le plus beau ?
+   L’AMI DE SOCRATE
+   Ah ! c’est un sage que tu as rencontré en venant ici ?
+   SOCRATE
+   Oui, et le plus sage sans contredit des hommes de ce temps, si tu crois que
+Protagoras mérite ce titre.
+   L’AMI DE SOCRATE
+   Oh ! que dis-tu ? Protagoras est ici ?
+   SOCRATE Depuis deux jours.
+   L’AMI DE SOCRATE
+   Et c’est avec lui que tu étais tout à l’heure ?
+   SOCRATE
+   Oui, et nous avons échangé force propos.
+   L’AMI DE SOCRATE
+   Raconte-moi vite cet entretien, si tu n’as rien de plus pressé ; assieds-toi
+                      3
+là, à la place de mon esclave .
+   SOCRATE
+   Très volontiers, et même je vous serai obligé de m’écouter.
+   L’AMI DE SOCRATE Nous aussi, de t’entendre.
+   SOCRATE
+   L’obligation sera réciproque.
+II.
+
+   — Écoutez donc. Ce matin, dans l’obscurité du petit jour, Hippocrate, fils
+d’Apollodore et frère de Phason, est venu frapper violemment à ma porte
+avec son bâton ; aussitôt qu’on lui eut ouvert la porte, il est entré en coup de
+vent et m’a crié : « Socrate, es-tu éveillé ou dors-tu ? » J’ai reconnu sa voix.
+« C’est Hippocrate, ai-je dit. Tu as des nouvelles à m’annoncer ? – Rien que
+de bonnes. – Tant mieux ; mais qu’y a-t-il, et pourquoi viens-tu à pareille
+heure ? – Protagoras est ici, me dit-il, en se plantant devant moi. – Depuis
+avant-hier, dis-je. Tu viens seulement de l’apprendre ? – Oui, par les dieux,
+hier au soir. » En même temps il tâtait mon lit et s’asseyait à mes pieds.
+                                                4
+« Oui, hier au soir, poursuivit-il, très tard, en revenant d’Œnoé . Il faut te dire
+que mon esclave Satyros s’était enfui ; j’étais sur le point de venir t’avertir
+que j’allais me mettre à sa poursuite, quand un incident me l’a fait oublier. À
+mon retour, nous avons dîné et nous allions nous coucher, quand mon frère
+me dit : Protagoras est ici. Tout d’abord je voulus encore accourir te le dire ;
+puis je pensai que la nuit était trop avancée. Mais des que le sommeil m’a eu
+remis de ma fatigue, je me suis levé et je suis venu ici comme tu vois. » En le
+voyant si décidé et si exalté, je lui ai dit : « Qu’est-ce que cela te fait ?
+Protagoras a-t-il quelque tort envers toi ? » Il m’a répondu en riant : « Oui,
+par les dieux, Socrate : il a le tort de garder sa science pour lui seul, sans
+m’en faire part. – Mais, par Zeus, tu n’as qu’à lui donner de l’argent et à le
+décider, il te rendra savant, toi aussi. – Si seulement, ô Zeus et tous les dieux,
+il ne tenait qu’à cela, je ne me laisserais rien à moi, ni à mes amis : c’est
+justement pour cela que je viens te trouver à présent, c’est pour que tu lui
+parles de moi ; car je suis trop jeune et je n’ai jamais ni vu ni entendu
+Protagoras ; j’étais encore enfant lors de son premier séjour ici. Mais tout le
+monde, Socrate, fait l’éloge du personnage, et on le donne pour le plus
+éloquent des hommes. Rendonsnous vite chez lui, afin de le trouver au logis ;
+il est descendu, dit-on, chez Callias, fils d’Hipponicos ; allons-y. – Pas
+encore, mon bon ami, c’est trop matin ; restons ici, levons-nous et allons dans
+la cour pour nous promener et passer le temps jusqu’à ce qu’il fasse jour ;
+nous irons alors. Protagoras ne sort guère ; ainsi n’aie pas peur, nous le
+trouverons, selon toute vraisemblance, au logis. »
+III.
+
+   — Alors nous nous sommes levés et nous nous sommes promenés dans la
+cour. Pour éprouver la résolution d’Hippocrate je lui ai demandé en
+l’observant de l’œil : « Dis-moi, Hippocrate, te voilà prêt à aller trouver
+Protagoras et à lui donner de l’argent en retour des soins qu’il prendra de toi ;
+mais sais-tu bien chez qui tu vas et ce que tu veux devenir ? Si par exemple tu
+                                                5
+te proposais d’aller chez ton homonyme, Hippocrate de Cos , de la famille
+des Asclépiades, et de lui donner de l’argent pour s’occuper de toi, et qu’on
+te demandât : Dis-moi, Hippocrate, tu vas payer un salaire à Hippocrate, mais
+sais-tu bien à quel titre ? Que répondrais-tu ? – Je répondrais, dit-il, à titre de
+médecin. – Et dans quel but ? – Dans le but de devenir médecin. – Et si tu te
+                                                  6
+proposais d’aller chez Polyclète d’Argos ou Phidias d’Athènes  et de leur
+payer un salaire pour s’occuper de toi, et qu’on te demandât : En donnant cet
+argent à Polyclète et à Phidias, à quel titre le leur donnes-tu ? Que répondrais-
+tu ? – Je répondrais : à titre de sculpteurs. – Et quel est ton but à toi ? –
+Évidemment de devenir sculpteur. – Bien, lui dis-je. À présent, c’est chez
+Protagoras que nous allons nous rendre, toi et moi, prêts à lui donner de
+l’argent pour qu’il s’occupe de toi, si notre fortune peut y suffire et si nous
+pouvons le décider par là ; sinon, nous y ajouterons celle de nos amis. Si donc
+en nous voyant mettre tant d’ardeur à ce projet, quelqu’un nous demandait :
+Dites-moi, Socrate et Hippocrate, à quel titre avez-vous l’intention d’offrir de
+l’argent à Protagoras ? Que lui répondrions-nous ? Quel est le nom particulier
+dont on appelle Protagoras, comme on appelle Phidias sculpteur, Homère
+poète ? Quel est le nom analogue qu’on donne à Protagoras ? – Celui de
+sophiste, Socrate : c’est ainsi qu’on le désigne. – C’est donc à titre de
+sophiste que nous allons lui payer cet argent ? – Oui. – Si on te posait encore
+cette question : Mais toi, que veux-tu devenir, en allant chez Protagoras ? » Il
+m’a répondu en rougissant, car il faisait alors assez de jour pour qu’on pût
+bien le voir : « S’il faut être conséquent, je veux évidemment devenir un
+sophiste. – Au nom des dieux, lui ai-je dit, ne rougirais-tu pas de te donner
+pour sophiste à la face des Grecs ? – Si, par Zeus, Socrate, s’il faut dire ce
+que je pense. – Mais peut-être, Hippocrate, penses-tu que tes études chez
+Protagoras auront un autre but, comme celles que tu as faites chez le maître
+d’école, le maître de cithare, le maître de gymnastique ; tu as reçu
+l’enseignement de chacun de ces maîtres, non point en vue d’en faire métier
+et profession, mais pour te cultiver, comme il convient à un profane et à un
+homme libre. – Je suis tout à fait de ton avis : c’est plutôt dans cet esprit que
+je suivrai les leçons de Protagoras.
+IV.
+
+   — Mais sais-tu bien ce que tu vas faire maintenant, ou cela t’échappe-t-
+il ? – À quel propos ? – Je veux dire que tu vas confier le soin de ton âme à
+un homme qui est, tu le reconnais, un sophiste ; mais qu’est-ce que peut bien
+être un sophiste, je serais surpris si tu le savais ; ou, si tu l’ignores, tu ne sais
+pas non plus à qui tu remets ton âme, si c’est pour ton bien ou pour ton mal. –
+Je crois le savoir. – Alors dis-le ; qu’est-ce qu’un sophiste, selon toi ? – Selon
+moi, c’est, comme le nom l’indique, un maître en savoir. – On peut en dire
+autant des peintres et des architectes : ce sont aussi des maîtres en savoir.
+Mais si l’on nous demandait en quoi les peintres sont des maîtres en savoir,
+nous répondrions sans doute que c’est dans l’exécution des portraits, et ainsi
+du reste. Mais si l’on nous posait cette question : Le sophiste, en quoi est-il
+un maître en savoir, que répondrions-nous ? en quel art est-il maître ? – Ce
+que nous répondrions, Socrate ? qu’il est maître en l’art de rendre les
+hommes  habiles à parler. – La réponse serait peut-être juste, mais
+insuffisante ; car elle appelle une autre question : sur quoi le sophiste rend-il
+habile à parler ? Ainsi le joueur de cithare rend habile à parler sur la matière
+qu’il enseigne, l’art de jouer de la cithare ; n’est-ce pas vrai ? – Si. – Bien ;
+mais le sophiste, sur quoi rend-il habile à parler ? évidemment, n’est-ce pas,
+sur la matière où il est lui-même savant ? – Sans doute. – Mais quelle est la
+matière où le sophiste est lui-même savant et rend savant son élève ? – Par
+Zeus, je ne sais plus que te répondre.
+V.
+
+   — Quoi donc ! repris-je, sais-tu à quel danger tu vas soumettre ton âme ?
+S’il te fallait confier ton corps à quelqu’un et courir le hasard de fortifier ou
+de gâter ta santé, tu y regarderais à deux fois pour t’en remettre ou non à ses
+soins, tu appellerais en consultation tes amis et tes parents et tu réfléchirais
+plus d’un jour ; et pour une chose que tu mets bien au-dessus de ton corps,
+pour ton âme, dont dépend tout ton sort, puisque tu seras heureux ou
+malheureux selon que ton âme sera bonne ou mauvaise, pour ton âme, dis-je,
+tu n’as consulté ni ton père, ni ton frère, ni aucun de nous, tes amis, pour
+décider s’il fallait la confier ou non à cet étranger qui vient d’arriver ; c’est
+d’hier soir que tu sais, dis-tu, son arrivée et tu t’en viens dès la pointe du jour,
+sans prendre le temps de réfléchir ni de consulter s’il faut ou non remettre ton
+âme entre ses mains, tout prêt à dépenser ta fortune et celle de tes amis ; car
+tu as décidé tout de suite qu’il fallait absolument t’attacher à Protagoras, que
+tu ne connais pas, dis-tu, à qui tu n’as jamais parlé ; tu l’appelles sophiste,
+mais il est visible que tu ignores ce qu’est ce sophiste, à qui tu veux te
+confier. »
+   Lui, là-dessus, m’a répondu : « Il semble bien, à t’entendre, que tu as
+raison. – Est-ce qu’un sophiste, Hippocrate, n’est pas une sorte de marchand
+et de trafiquant des denrées dont l’âme se nourrit ? Il me paraît à moi que
+c’est quelque chose comme cela. – Mais l’âme, Socrate, de quoi se nourrit-
+elle ? – De sciences, je suppose ; aussi faut-il craindre, ami, que le sophiste,
+en vantant sa marchandise, ne nous trompe comme ceux qui trafiquent des
+aliments du corps, marchands et détaillants ; ceux-ci en effet ignorent ce qui,
+dans les denrées qu’ils colportent, est bon ou mauvais pour le corps ; mais ils
+n’en vantent pas moins toute leur marchandise, et leurs acheteurs ne s’y
+connaissent pas mieux, à moins qu’il ne s’y trouve quelque maître de
+gymnastique ou quelque médecin. Il en est de même de ceux qui colportent
+les sciences de ville en ville, qui les vendent et les détaillent ; ils ne manquent
+jamais de vanter aux amateurs tout ce qu’ils vendent ; mais il peut se faire,
+mon bon ami, qu’un certain nombre d’entre eux ignorent ce qui dans leurs
+marchandises est bon ou mauvais pour l’âme, et leurs acheteurs l’ignorent
+aussi, à moins qu’il ne s’y trouve quelque médecin de l’âme. Si donc tu sais
+ce qu’il y a dans ces marchandises de bon ou de mauvais pour l’âme, tu peux
+sans danger acheter les sciences et à Protagoras et à tout autre ; sinon, prends
+garde, bon jeune homme, de hasarder sur un coup de dés ce que tu as de plus
+cher ; car le danger est beaucoup plus grand dans l’achat des sciences que
+dans l’achat des aliments ; si en effet on achète des vivres et des boissons à
+un détaillant ou à un marchand, on peut les emporter dans les vases
+appropriés, et, avant de les introduire dans le corps en les buvant et en les
+mangeant, on peut les déposer chez soi, consulter, et faire appel à quelqu’un
+qui sait ce qu’il faut manger ou boire, et ce qu’il ne faut pas, combien il faut
+en prendre, et à quel moment, de sorte qu’on ne court pas grand danger à les
+acheter ; mais les sciences, on ne peut les emporter dans un autre vase, il faut,
+le prix payé, loger dans son âme même la science qu’on apprend et s’en aller,
+empoisonné ou conforté. Examinons donc la question avec des gens plus
+vieux que nous ; car nous sommes encore jeunes pour trancher une affaire si
+importante. Mais à présent, puisque nous sommes en train, allons écouter cet
+homme, puis nous communiquerons à d’autres ce que nous aurons entendu.
+Aussi bien Protagoras n’est pas tout seul là-bas ; nous trouverons avec lui
+Hippias d’Élis et, je crois aussi, Prodicos de Céos et plusieurs autres sages.
+VI.
+
+   — Cette résolution prise, nous partons. Arrivés au vestibule, nous nous
+sommes arrêtés ; nous étions en train de discuter sur un sujet sur lequel nous
+étions tombés chemin faisant ; ne voulant pas rester au milieu de notre
+discussion et entrer sans l’avoir épuisée, nous l’avons continuée, debout, dans
+le vestibule, jusqu’à ce que nous soyons tombés d’accord. Je crois bien que le
+portier, un eunuque, nous entendait, et il semble qu’à voir tant de sophistes il
+avait pris de l’humeur contre les visiteurs ; car à peine avons-nous frappé à la
+porte et nous a-t-il ouvert, qu’en nous apercevant il s’écrie : « Ah ! des
+sophistes ! mon maître n’a pas le temps » ; et en même temps de ses deux
+mains il nous ferme la porte au nez avec tout l’entrain dont il était capable.
+Nous frappons de nouveau. Il nous répond à travers la porte : « Vous n’avez
+pas entendu ? Je vous ai dit que mon maître n’avait pas le temps. – Mais,
+mon brave, ce n’est pas Callias que nous demandons et nous ne sommes pas
+des sophistes ; rassure-toi. Nous sommes venus pour voir Protagoras ; va
+donc nous annoncer. » Alors enfin le gaillard nous a ouvert, mais à grand-
+peine encore.
+VII.
+
+   — En entrant, nous avons trouvé Protagoras qui se promenait dans le
+portique, accompagné d’un côté de
+                                            7
+   Callias, fils d’Hipponicos, de son frère utérin, Paralos , fils de Périclès, et
+          8
+de Charmide , fils de Glaucon ; de l’autre côté, de l’autre fils de Périclès,
+                   9                                    10
+Xanthippe, de Philippide , fils de Philomélos, d’Antimoiros de Mendè , le
+plus renommé des disciples de Protagoras, qui étudie pour faire le métier de
+sophiste ; derrière eux, tendant l’oreille pour écouter, marchait une troupe de
+gens où dominaient évidemment les étrangers que Protagoras amène de
+chacune des villes par où il passe : il les charme de sa voix, comme Orphée,
+et, enchantés par cette voix magique, ils s’attachent à ses pas ; il y avait aussi
+des gens d’ici dans le chœur. En voyant ce chœur4, j’ai pris plaisir à observer
+avec quelle déférence ils évitaient de gêner Protagoras, en se trouvant devant
+lui ; toutes les fois qu’il se retournait avec sa compagnie, toute la suite des
+écouteurs s’écartait à droite et à gauche dans un ordre parfait, et, se rangeant
+en cercle, se replaçait chaque fois derrière lui avec un ensemble admirable.
+   Le chœur tragique comprenait trois rangs de cinq choreutes ; le coryphée
+se tenait au milieu du premier rang. Protagoras se tient de même au milieu du
+premier rang, qui compte sept personnes ; les autres se tiennent derrière lui.
+
+                                                          11
+   « Après lui, j’avisai », pour me servir de l’expression d’Homère ,
+           12                      13
+Hippias d’Élis , assis dans la galerie du fond , sur un siège élevé ; autour de
+                                  14
+lui, sur des bancs, étaient assis Éryximaque , fils d’Acouménos, Phèdre de
+                 15
+Myrrhinunte, Andron , fils d’Androtion, des concitoyens d’Hippias et
+quelques autres étrangers ; ils semblaient questionner Hippias sur la nature et
+les phénomènes astronomiques, et lui, du haut de son siège, tranchait et
+débrouillait les difficultés que chacun lui soumettait.
+                                               16
+   « En ce moment mes yeux s’arrêtèrent aussi sur Tantale  », c’est-à-dire
+Prodicos de Céos ; car il était bien présent ; il était dans une chambre qui
+auparavant servait de cellier à Hipponicos, mais que Callias, vu l’affluence
+des hôtes, avait débarrassée pour la mettre aussi à la disposition des
+étrangers. Prodicos était encore couché, enfoui, à ce qu’il m’a semblé, sous
+les fourrures et les couvertures entassées ; auprès de lui, sur les lits voisins, se
+                17
+trouvaient Pausanias  des Kéramées, et avec Pausanias un jeune adolescent
+qui m’a paru d’un excellent naturel et qui est à coup sûr d’une beauté
+parfaite. J’ai cru entendre qu’il s’appelait Agathon, et je ne serais pas étonné
+qu’il fût le mignon de Pausanias ; il y avait donc cet adolescent, et les deux
+            18                   19
+Adimantes, l’un  fils de Képis, et l’autre , de Leucolophide, et quelques
+autres. Pour le sujet de leur entretien, je n’ai pu, du dehors où j’étais, le saisir,
+malgré mon vif désir d’entendre Prodicos, qui me paraît être un sage
+accompli, un homme divin : sa voix de basse-taille, résonnant dans la
+chambre, arrivait en sons indistincts. À peine étions-nous entrés qu’entraient
+derrière nous
+                                                       20
+   Alcibiade le beau, comme tu dis, avec raison, selon moi, et Critias , fils
+de Kallaischros.
+VIII.
+
+   — Pour nous, après avoir franchi la porte, nous avons passé quelques
+instants à regarder ce tableau ; puis nous nous sommes avancés vers
+Protagoras et je lui ai dit : « C’est toi que nous cherchons, Protagoras,
+Hippocrate que voici et moi.
+   —  Voulez-vous me parler en particulier ou en présence de tout le
+monde ?
+   — Cela nous est égal à nous, mais écoute ce qui nous amène et vois toi-
+même.
+   — Qu’est-ce donc qui vous amène ?
+   — Hippocrate que voici est d’Athènes, fils d’Apollodore, d’une maison
+considérable et opulente ; personnellement il paraît aussi bien doué qu’aucun
+jeune homme de son âge ; il aspire, je crois, à tenir un rang illustre dans
+l’État, et il croit que le meilleur moyen d’y réussir est de prendre tes leçons ;
+vois maintenant s’il te convient de nous entretenir là-dessus en particulier ou
+devant les autres.
+   — C’est bien fait à toi, Socrate, de veiller avec cette prévoyance à mes
+intérêts ; car un étranger qui vient dans de grandes villes pour y persuader à
+l’élite des jeunes gens de quitter toute autre société de parents et d’étrangers,
+soit vieux, soit jeunes, pour s’attacher à lui, afin de devenir meilleurs par son
+commerce, un étranger qui fait cela doit user de circonspection ; car c’est un
+métier qui soulève contre lui des jalousies, des haines et des embûches
+redoutables.
+   Pour moi, j’ose affirmer que la profession de sophiste est ancienne ; mais
+ceux qui la pratiquaient dans les premiers temps, craignant la défaveur qui s’y
+attache, la pratiquaient sous le déguisement ou le voile de la poésie, comme
+Homère, Hésiode, Simonide, ou des mystères et des oracles, comme Orphée,
+     21
+Musée  et leurs disciples ; j’ai remarqué que quelques-uns même l’abritaient
+                               22
+derrière la gymnastique, comme Ikkos  de Tarente et cet Hérodicos de
+        23
+Sélymbrie , originaire de Mégare, sophiste encore vivant, qui ne craint
+                                                       24
+aucun rival ; c’est sous le manteau de la musique que votre Agathoclès , ce
+                                        25
+grand sophiste, s’est caché, ainsi que Pythoclidès  de Céos et beaucoup
+d’autres. Tous ces gens-là, je le répète, ont pris prétexte de ces arts pour se
+mettre à l’abri de l’envie. Pour moi, je ne partage pas leur avis sur ce point,
+persuadé que je suis qu’ils ont entièrement manqué leur but ; car ceux qui
+détiennent le pouvoir dans les cités ne se laissent pas prendre à ces finesses
+imaginées pour eux ; quant à la foule, elle ne s’aperçoit pour ainsi dire de
+rien, elle répète seulement ce que ceux-ci lui font dire. Vouloir se dérober,
+comme  un esclave marron, alors qu’on n’y peut réussir et qu’on est
+forcément découvert, c’est folie même de l’entreprendre, et cela ne peut
+aboutir qu’à renforcer la malveillance ; car c’est ajouter la fourberie aux
+autres griefs que le vulgaire a contre nous.
+   Aussi moi, je suis une voie toute différente : je confesse que je suis
+sophiste et que j’instruis les hommes, et je crois ma précaution meilleure que
+la leur, et qu’il vaut mieux avouer que nier. Outre cette précaution, j’en ai
+imaginé d’autres, de manière à éviter, avec l’aide de Dieu, les disgrâces que
+je pourrais encourir en me donnant pour sophiste. Il y a pourtant déjà bien des
+années que j’exerce cette profession, car le total de mes années est
+considérable, et il n’y en a pas un d’entre vous dont, par mon âge, je ne pusse
+être le père ; aussi rien ne peut me faire autant de plaisir, si vous le voulez
+bien, que de traiter toutes ces questions devant toute la compagnie qui est
+ici. »
+   Alors moi qui me doutais bien qu’il voulait se faire valoir en montrant à
+Prodicos et à Hippias que nous étions venus pour l’amour de lui, je lui dis :
+« Alors, il faut vite appeler Prodicos et Hippias et ceux qui sont avec eux,
+pour qu’ils nous écoutent ? – Oui, dit Protagoras. – Voulez-vous, dit Callias,
+que nous disposions des sièges pour une assemblée, afin que vous parliez
+assis ? » Ce fut l’avis général. Et tous, joyeux à la pensée d’entendre parler
+des savants, nous avons pris nous-mêmes les bancs et les lits pour les
+disposer près d’Hippias ; car c’est là que se trouvaient déjà les bancs. À ce
+moment Callias et Alcibiade amenaient Prodicos qu’ils avaient fait lever de
+son lit, et les gens qui étaient avec lui.
+IX.
+
+   — Quand nous fûmes tous assis, Protagoras prit la parole : « À présent,
+Socrate, que la compagnie est là, tu peux reprendre le sujet dont tu m’as
+touché un mot tout à l’heure à propos de ce jeune homme. »
+   Je répondis : « Je commencerai, Protagoras, comme tout à l’heure, par le
+but de notre visite. Hippocrate que voici est piqué du désir de se mettre à ton
+école, et il dit qu’il aimerait savoir quels avantages il retirera de ton
+commerce. Voilà tout ce que nous avons à te dire. »
+   Protagoras reprit alors : « Jeune homme, l’avantage que tu retireras de
+mon commerce, c’est que, quand tu auras passé un jour avec moi, tu
+retourneras chez toi meilleur que tu n’étais, le lendemain de même, et chaque
+jour tu feras des progrès vers le mieux. »
+   Ayant entendu cette déclaration, je repris la parole : « Ce que tu dis,
+Progatoras, n’est pas extraordinaire, c’est naturel au contraire ; car, si âgé et
+si savant que tu sois, si on t’enseignait ce que tu ne sais pas, tu deviendrais
+meilleur. Ce n’est pas cela que je te demande. Mais supposons par exemple
+que changeant tout d’un coup de fantaisie, Hippocrate ait envie de s’attacher
+                                                26
+à ce jeune homme qui vient d’arriver chez nous, Zeuxippos  d’Héraclée,
+qu’il aille le trouver comme il vient te trouver à présent, et qu’il s’entende
+dire, comme il vient de l’entendre de ta bouche, que chaque jour, grâce à son
+commerce, il deviendra meilleur et fera des progrès, et qu’enfin il lui
+demande : En quoi prétends-tu que je deviendrai meilleur, et en quoi ferai-je
+des progrès ? Zeuxippos lui répondrait que c’est en peinture. Supposons
+                               27
+encore qu’il se soit attaché à Orthagoras  de Thèbes et que celui-ci fasse les
+mêmes promesses que toi ; s’il lui demandait en outre en quoi il deviendrait
+chaque jour meilleur par sa fréquentation, Orthagoras répondrait que c’est
+dans l’art de jouer de la flûte. Réponds de même, toi aussi, à ce jeune homme
+et à moi qui te questionne pour lui. Hippocrate, en s’attachant à Protagoras,
+dès le jour qu’il aura passé en sa compagnie, s’en retournera meilleur, et
+chaque jour qui s’écoulera il progressera d’autant, mais en quoi, Protagoras,
+et sur quoi ? »
+   Après m’avoir entendu, Protagoras répliqua : « Tu t’entends à merveille à
+poser les questions, Socrate, et moi, de mon côté, j’ai plaisir à répondre aux
+questions bien posées. Hippocrate, en venant à moi, n’aura pas les ennuis
+qu’il aurait en s’attachant à tout autre sophiste ; les autres sophistes traitent
+outrageusement les jeunes gens : ils ont beau avoir dit adieu aux arts, les
+sophistes les y ramènent malgré eux et les y replongent, leur enseignant le
+calcul, l’astronomie, la géométrie, la musique – et, ce disant, il regardait
+Hippias ; au contraire, en venant à moi, il n’apprendra que la science pour
+laquelle il est venu ; cette science est la prudence, qui, dans les affaires
+domestiques, lui enseignera la meilleure façon de gouverner sa maison, et,
+dans les affaires de la cité, le mettra le mieux en état d’agir et de parler pour
+elle.
+   — Ai-je bien suivi ta pensée ? demandai-je. Tu veux parler sans doute de
+l’art politique et tu te fais fort de former de bons citoyens.
+   —  C’est cela même, Socrate, dit-il : voilà la science dont je fais
+profession.
+X.
+
+   — C’est à coup sûr une belle science que tu possèdes là, s’il est vrai que
+tu la possèdes, car je ne te cacherai pas ma façon de penser. Je ne croyais pas,
+Protagoras, qu’on pût enseigner cette science ; mais puisque tu le dis, il faut
+bien que je te croie. Cependant il est juste que je te dise pourquoi je pense
+qu’elle ne saurait être enseignée ni transmise d’homme à homme. Je suis
+persuadé, avec tous les autres Grecs, que les Athéniens sont sages ; or je vois
+que, dans nos assemblées publiques, s’il s’agit de délibérer sur une
+construction, on fait venir les architectes pour prendre leur avis sur les
+bâtiments à faire ; s’il s’agit de construire des vaisseaux, on fait venir les
+constructeurs de navires et de même pour tout ce qu’on tient susceptible
+d’être appris et enseigné ; mais si quelque autre se mêle de donner des
+conseils, sans être du métier, si beau, si riche, si noble qu’il soit, il n’en reçoit
+pas pour cela meilleur accueil ; au contraire on le raille et on le siffle, ce
+donneur d’avis, jusqu’à ce qu’il se retire lui-même sous les huées ou que les
+     28
+archers  l’entraînent et l’enlèvent sur l’ordre des prytanes : voilà comment
+les Athéniens se comportent dans ce qui leur paraît toucher au métier. Si au
+contraire il faut délibérer sur le gouvernement de la cité, chacun se lève pour
+leur donner des avis, charpentier, forgeron, cordonnier, marchand, armateur,
+riche ou pauvre, noble ou roturier indifféremment, et personne ne leur
+reproche, comme aux précédents, de venir donner des conseils, alors qu’ils
+n’ont étudié nulle part et n’ont été à l’école d’aucun maître, preuve évidente
+qu’on ne croit pas que la politique puisse être enseignée. Et ce n’est pas
+seulement dans les affaires publiques qu’il en est ainsi, mais dans la vie
+privée, nos concitoyens les plus sages et les meilleurs sont incapables de
+transmettre à d’autres le talent qu’ils possèdent ; ainsi Périclès, le père des
+jeunes gens que voilà, les a fait instruire à merveille de ce qui dépend des
+maîtres ; mais pour sa propre sagesse, il ne la leur enseigne pas ni ne la leur
+fait enseigner par d’autres ; mais il les laisse courir et paître en liberté,
+comme des animaux sacrés, pour voir si d’eux-mêmes ils tomberont sur la
+vertu. Veux-tu un autre exemple ? Ce même Périclès, chargé de la tutelle de
+     29
+Clinias , frère cadet d’Alcibiade ici présent, craignant qu’il ne fût gâté par le
+contact de son aîné, le sépara de lui et le mit chez Ariphron pour y être élevé ;
+mais il ne s’était pas passé six mois qu’Ariphron le lui rendait, ne sachant que
+faire de lui. Je pourrais t’en citer bien d’autres qui, étant eux-mêmes pleins de
+mérite, n’ont jamais amélioré personne, ni de leurs parents, ni des étrangers.
+C’est la vue de ces exemples, Protagoras, qui me fait croire que la vertu ne
+saurait être enseignée. Pourtant, lorsque je t’entends parler comme tu fais, ma
+conviction fléchit, et je pense que tu pourrais bien avoir raison, parce que tu
+dois avoir une vaste expérience et que tu dois avoir appris beaucoup d’autrui,
+beaucoup par tes propres réflexions. Si donc tu peux nous démontrer
+clairement qu’on peut enseigner la vertu, ne nous refuse pas cette faveur,
+démontre-le.
+   — J’y consens, Socrate, dit-il ; mais dois-je faire ma démonstration en
+vous disant une fable, comme un vieillard fait un conte à des jeunes gens, ou
+en discutant pied à pied la question ? »
+   Beaucoup des assistants lui répondirent qu’il traitât le sujet comme il
+l’entendrait. — « M’est avis, dit-il, que vous aurez plus de plaisir à entendre
+une fable. »
+XI.
+
+   — Il fut jadis un temps où les dieux existaient, mais non les espèces
+mortelles. Quand le temps que le destin avait assigné à leur création fut venu,
+les dieux les façonnèrent dans les entrailles de la terre d’un mélange de terre
+et de feu et des éléments qui s’allient au feu et à la terre. Quand le moment de
+                                                        30
+les amener à la lumière approcha, ils chargèrent Prométhée et Épiméthée  de
+les pourvoir et d’attribuer à chacun des qualités appropriées. Mais Épiméthée
+demanda à Prométhée de lui laisser faire seul le partage. « Quand je l’aurai
+fini, dit-il, tu viendras l’examiner. » Sa demande accordée, il fit le partage, et,
+en le faisant, il attribua aux uns la force sans la vitesse, aux autres la vitesse
+sans la force ; il donna des armes à ceux-ci, les refusa à ceux-là, mais il
+imagina pour eux d’autres moyens de conservation ; car à ceux d’entre eux
+qu’il logeait dans un corps de petite taille, il donna des ailes pour fuir ou un
+refuge souterrain ; pour ceux qui avaient l’avantage d’une grande taille, leur
+grandeur suffit à les conserver, et il appliqua ce procédé de compensation à
+tous les animaux. Ces mesures de précaution étaient destinées à prévenir la
+disparition des races. Mais quand il leur eut fourni les moyens d’échapper à
+une destruction mutuelle, il voulut les aider à supporter les saisons de
+   31
+Zeus  ; il imagina pour cela de les revêtir de poils épais et de peaux serrées,
+suffisantes pour les garantir du froid, capables aussi de les protéger contre la
+chaleur et destinées enfin à servir, pour le temps du sommeil, de couvertures
+naturelles, propres à chacun d’eux ; il leur donna en outre comme chaussures,
+soit des sabots de corne, soit des peaux calleuses et dépourvues de sang ;
+ensuite il leur fournit des aliments variés suivant les espèces, aux uns l’herbe
+du sol, aux autres les fruits des arbres, aux autres des racines ; à quelques-uns
+même il donna d’autres animaux à manger ; mais il limita leur fécondité et
+multiplia celle de leurs victimes, pour assurer le salut de la race.
+   Cependant Épiméthée, qui n’était pas très réfléchi, avait, sans y prendre
+garde, dépensé pour les animaux toutes les facultés dont il disposait et il lui
+restait la race humaine à pourvoir, et il ne savait que faire. Dans cet embarras,
+Prométhée vient pour examiner le partage ; il voit les animaux bien pourvus,
+mais l’homme nu, sans chaussures, ni couverture, ni armes, et le jour fixé
+approchait où il fallait l’amener du sein de la terre à la lumière. Alors
+Prométhée, ne sachant qu’imaginer pour donner à l’homme le moyen de se
+conserver, vole à Héphaïstos et à Athéna la connaissance des arts avec le feu ;
+car, sans le feu, la connaissance des arts était impossible et inutile ; et il en
+fait présent à l’homme. L’homme eut ainsi la science propre à conserver sa
+vie ; mais il n’avait pas la science politique ; celle-ci se trouvait chez Zeus, et
+Prométhée n’avait plus le temps de pénétrer dans l’acropole que Zeus habite
+                                   32
+et où veillent d’ailleurs des gardes redoutables . Il se glisse donc furtivement
+dans l’atelier commun où Athéna et Héphaïstos cultivaient leur amour des
+arts, il y dérobe au dieu son art de manier le feu et à la déesse l’art qui lui est
+propre, et il en fait présent à l’homme, et c’est ainsi que l’homme peut se
+procurer des ressources pour vivre. Dans la suite, Prométhée fut, dit-on, puni
+du larcin qu’il avait commis par la faute d’Épiméthée.
+XII.
+
+   — Quand l’homme fut en possession de son lot divin, d’abord à cause de
+son affinité avec les dieux, il crut à leur existence, privilège qu’il a seul de
+tous les animaux, et il se mit à leur dresser des autels et des statues ; ensuite il
+eut bientôt fait, grâce à la science qu’il avait, d’articuler sa voix et de former
+les noms des choses, d’inventer les maisons, les habits, les chaussures, les
+lits, et de tirer les aliments du sol. Avec ces ressources, les hommes, à
+l’origine, vivaient isolés, et les villes n’existaient pas ; aussi périssaient-ils
+sous les coups des bêtes fauves, toujours plus fortes qu’eux ; les arts
+mécaniques suffisaient à les faire vivre ; mais ils étaient d’un secours
+insuffisant dans la guerre contre les bêtes ; car ils ne possédaient pas encore
+la science politique dont l’art militaire fait partie. En conséquence ils
+cherchaient à se rassembler et à se mettre en sûreté en fondant des villes ;
+mais quand ils s’étaient rassemblés, ils se faisaient du mal les uns aux autres,
+parce que la science politique leur manquait, en sorte qu’ils se séparaient de
+nouveau et périssaient.
+   Alors Zeus, craignant que notre race ne fût anéantie, envoya Hermès
+porter aux hommes la pudeur et la justice, pour servir de règles aux cités et
+unir les hommes par les liens de l’amitié. Hermès alors demanda à Zeus de
+quelle manière il devait donner aux hommes la justice et la pudeur. « Dois-je
+les partager, comme on a partagé les arts ? Or les arts ont été partagés de
+manière qu’un seul homme, expert en l’art médical, suffît pour un grand
+nombre de profanes, et les autres artisans de même. Dois-je répartir ainsi la
+justice et la pudeur parmi les hommes, ou les partager entre tous ? – Entre
+tous, répondit Zeus ; que tous y aient part, car les villes ne sauraient exister,
+si ces vertus étaient, comme les arts, le partage exclusif de quelques-uns ;
+établis en outre en mon nom cette loi, que tout homme incapable de pudeur et
+de justice sera exterminé comme un fléau de la société.
+   Voilà comment, Socrate, et voilà pourquoi et les Athéniens et les autres,
+quand il s’agit d’architecture ou de tout autre art professionnel, pensent qu’il
+n’appartient qu’à un petit nombre de donner des conseils, et si quelque autre,
+en dehors de ce petit nombre, se mêle de donner un avis, ils ne le tolèrent pas,
+comme tu dis, et ils ont raison, selon moi. Mais quand on délibère sur la
+politique, où tout repose sur la justice et la tempérance, ils ont raison
+d’admettre tout le monde, parce qu’il faut que tout le monde ait part à la vertu
+civile ; autrement il n’y a pas de cité. Voilà, Socrate, la raison de cette
+différence.
+   Mais pour que tu ne t’imagines pas que je t’abuse, en te disant que tout le
+monde est réellement persuadé que chacun a part à la justice et aux autres
+vertus civiles, je vais t’en donner une nouvelle preuve. Pour les autres
+                  33
+qualités, c’est ton mot , si quelqu’un par exemple prétend exceller sur la
+flûte ou en tout autre art, alors qu’il ne s’y entend pas, on le raille, on le
+rebute et ses proches viennent le chapitrer sur sa folie ; mais en ce qui
+concerne la justice et les autres vertus politiques, si l’on connaît quelqu’un
+pour un homme injuste, et si, témoignant contre lui-même, il avoue la vérité
+devant le public, cette confession de la vérité qui passait tout à l’heure pour
+sagesse passe ici pour folie, et l’on est convaincu qu’il faut que tous les
+hommes se disent justes, qu’ils le soient ou qu’ils ne le soient pas, et que
+c’est folie de ne pas simuler la justice ; car il est nécessaire que chacun sans
+exception ait quelque part à la justice ou qu’il disparaisse du milieu des
+hommes.
+XIII.
+
+   — Qu’on ait raison d’admettre chacun à donner son avis sur cette vertu,
+parce qu’on est persuadé qu’elle est le partage de chacun, voilà ce que je
+viens d’établir ; qu’on le regarde, non pas comme un don de la nature ou un
+effet du hasard, mais comme une chose qui peut s’enseigner ou s’acquérir par
+l’exercice, voilà ce que je vais essayer maintenant de te démontrer. Et en effet
+pour les défauts naturels ou accidentels que l’on remarque les uns chez les
+autres, personne ne se fâche contre ceux qui en sont affligés, personne ne les
+reprend, ne leur fait la leçon, ne les châtie, afin qu’ils cessent d’être ce qu’ils
+sont : on a simplement pitié d’eux. Qui serait assez fou, par exemple, pour
+infliger de tels traitements à des personnes laides, petites ou débiles ? On sait
+bien, n’est-ce pas, que c’est de la nature et du hasard que les hommes
+tiennent ces qualités de beauté ou de laideur ; mais pour les qualités qu’on
+regarde comme un effet de l’application, de l’exercice et de l’étude, lorsqu’on
+ne les a pas et qu’on a les vices contraires, c’est alors que l’indignation, les
+châtiments, les remontrances trouvent à s’appliquer. Au nombre de ces
+défauts sont l’injustice, l’impiété et en général tout ce qui est contraire à la
+vertu politique ; ici chacun s’indigne et s’élève contre le vice, évidemment
+parce qu’il est persuadé que cette vertu s’acquiert par l’application et l’étude.
+   Si en effet, Socrate, tu veux bien faire réflexion sur le sens de cette
+expression punir les méchants, cela suffira pour te convaincre que les
+hommes regardent la vertu comme une chose qu’on peut acquérir ; personne
+en effet ne punit un homme injuste par la simple considération et le simple
+motif qu’il a commis une injustice, à moins qu’il ne punisse à l’aveugle,
+comme une bête féroce ; mais celui qui veut punir judicieusement ne punit
+pas à cause de l’injustice, qui est chose passée, car il ne saurait faire que ce
+qui est fait ne soit pas fait ; mais il punit en vue de l’avenir, afin que le
+coupable ne retombe plus dans l’injustice et que son châtiment retienne ceux
+                   34
+qui en sont les témoins . Penser ainsi, c’est penser que la vertu peut être
+enseignée, puisque le châtiment a pour but de détourner du vice. Telle est
+l’opinion de tous ceux qui punissent en leur nom et au nom de l’État. Or tous
+les hommes punissent et châtient ceux qu’ils regardent comme injustes, et les
+Athéniens, tes concitoyens, aussi bien que les autres, de sorte que, suivant ce
+raisonnement, les Athéniens sont de ceux qui pensent que la vertu s’acquiert
+et s’enseigne. Ainsi, que tes concitoyens aient raison d’accueillir les conseils
+du forgeron et du cordonnier en matière politique, et qu’ils soient convaincus
+que la vertu s’enseigne et s’acquiert, voilà, Socrate, qui est suffisamment
+démontré, si je ne m’abuse.
+XIV.
+
+   — Reste la difficulté que tu as soulevée à propos des hommes vertueux.
+Tu demandais pourquoi les hommes vertueux font apprendre à leurs enfants
+tout ce qui s’enseigne dans les écoles et réussissent à les rendre savants,
+tandis que, dans la vertu où ils excellent, ils ne peuvent les rendre supérieurs
+à personne. Pour traiter cette question, Socrate, au lieu de recourir à la fable,
+j’emploierai le raisonnement. Arrête ta réflexion sur ceci. Y a-t-il, oui ou non,
+une chose unique à laquelle il faut que tous les citoyens participent, si l’on
+veut qu’un État subsiste ? C’est ici que nous trouverons la solution de la
+difficulté qui t’arrête, ou nous ne la trouverons nulle part. Car, si cette chose
+existe, et si cette chose unique n’est pas l’art de l’architecte, ni du forgeron,
+ni du potier, mais la justice, la tempérance, la sainteté, et, pour exprimer d’un
+seul mot une chose unique, la vertu ; si c’est une chose à laquelle il faut que
+tous les hommes aient part, à laquelle tout homme qui veut apprendre ou faire
+quelque chose doit conformer sa conduite, sinon, renoncer à son dessein ; si
+c’est une chose telle qu’il faut instruire et punir tout homme qui en est dénué,
+enfant, homme, femme, jusqu’à ce qu’il s’améliore par le châtiment, et, s’il
+ne se rend point malgré les châtiments et les remontrances, le chasser des
+cités et le mettre à mort comme incurable ; s’il en est ainsi, et si malgré cela
+les hommes vertueux font instruire leurs fils en toutes choses et non en celle-
+ci, vois quelle conduite étonnante est la leur. Ils sont en effet convaincus,
+nous l’avons démontré, que la vertu peut être l’objet d’un enseignement
+public et privé, et avec cette conviction qu’elle est susceptible d’être
+enseignée et cultivée, ils feraient apprendre à leurs fils toutes les choses dont
+l’ignorance n’est point punie de mort, et celle qui expose leurs enfants, s’ils
+ne l’ont pas apprise et n’ont pas été formés à la vertu, à la peine de mort, à
+l’exil, et, outre la mort, à la confiscation, et, pour le dire en un mot, à la ruine
+de leurs maisons, ils ne la leur feraient pas apprendre, ils n’y mettraient pas
+toute leur application ! C’est une chose impossible à admettre, Socrate.
+XV.
+
+   — Cet enseignement, cette éducation commence à l’âge tendre, et les
+pères la poursuivent jusqu’à leur mort. Dès que l’enfant comprend ce qu’on
+lui dit, nourrice, mère, gouverneur, sans parler du père lui-même, s’évertuent
+à le perfectionner ; chaque action, chaque parole sert de texte à un
+enseignement direct : « Telle chose est juste, lui dit-on, telle autre injuste ;
+ceci est beau, cela est honteux ; ceci est saint, cela impie ; fais ceci, ne fais
+pas cela. » Il se peut que l’enfant obéisse volontairement ; il se peut qu’il soit
+indocile ; alors, comme on fait d’un bois courbé et gauchi, on le redresse par
+les menaces et les coups. Puis on envoie les enfants à l’école et on
+recommande beaucoup plus aux maîtres de veiller à leurs mœurs que de leur
+apprendre les lettres et la cithare. Les maîtres y veillent en effet, et quand
+leurs élèves savent lire et sont à même de comprendre ce qui est écrit, comme
+ils comprenaient les leçons orales, on leur donne à lire sur leurs bancs les
+œuvres des grands poètes et on les leur fait apprendre par cœur. Ils y trouvent
+quantité de préceptes, quantité de récits à la louange et à la gloire des héros
+d’autrefois : on veut que l’enfant, pris d’émulation, les imite et s’efforce de
+leur ressembler.
+   Les maîtres de cithare font de même : ils s’appliquent à rendre les jeunes
+gens tempérants et veillent à ce qu’ils ne fassent rien de mal ; puis, quand ils
+leur ont appris à jouer de la cithare, ils leur font étudier les œuvres d’autres
+grands poètes, les poètes lyriques, en les faisant exécuter sur l’instrument ; ils
+forcent ainsi les âmes des enfants à s’approprier les rythmes et les accords,
+pour qu’ils se rendent plus doux et que, devenus mieux rythmés et plus
+harmonieux, ils soient bien préparés pour la parole et pour l’action ; car toute
+la vie de l’homme a besoin de nombre et d’harmonie.
+   Après cela, on les envoie encore chez le maître de gymnastique, afin
+qu’ils aient un corps plus sain à mettre au service d’un esprit vertueux et ne
+soient pas des trembleurs à la guerre et ailleurs, par la faiblesse de leur
+constitution. Voilà ce qu’on fait pour l’éducation des enfants. Plus on le peut,
+plus on la soigne, et on le peut d’autant plus qu’on est plus riche, et ce sont
+les enfants des riches qui commencent le plus tôt à fréquenter l’école et qui la
+quittent le plus tard.
+   Quand ils sortent des mains des maîtres, la cité à son tour leur fait
+apprendre ses lois et régler leur conduite sur elles, comme sur un modèle, au
+lieu de les laisser faire à leur tête et suivre leur fantaisie. Tout comme les
+maîtres d’école tracent des lignes avec leur stylet pour les enfants qui ne
+savent pas encore écrire, puis leur mettent en main les tablettes et les font
+écrire en suivant ces lignes, ainsi la cité a tracé les lois inventées jadis par de
+vertueux législateurs, et elle exige qu’on gouverne et qu’on se laisse
+gouverner par ces lois, et punit ceux qui les transgressent ; et cette punition
+s’appelle chez vous et en beaucoup d’autres endroits redressement, parce que
+le but du châtiment est de redresser. Après tant de soins donnés à la vertu, en
+particulier comme en public, peux-tu bien t’étonner, Socrate, et douter que la
+vertu puisse être enseignée ? Loin de le trouver surprenant, il faudrait bien
+plutôt s’étonner du contraire.
+XVI.
+
+   —  D’où vient donc que des hommes de mérite ont souvent des fils
+médiocres ? Apprends-en la raison. Il n’y a là rien que de naturel, s’il est vrai,
+comme je l’ai dit tout à l’heure, qu’il faut, pour que la cité subsiste, que tout
+le monde soit instruit dans cette science qu’est la vertu. Si donc ce que je dis
+est vrai, et il n’y a rien de plus vrai, considère parmi les autres occupations et
+les autres sciences celle qu’il te plaira. Supposons, par exemple, que la cité ne
+puisse exister qu’à la condition que nous soyons tous joueurs de flûte, chacun
+dans la mesure de nos moyens ; que dès lors chacun enseigne la flûte aux
+autres et en particulier et en public, réprimande celui qui joue mal, et fasse
+part de son talent, comme on fait part de sa connaissance de la justice et des
+lois, sans en faire mystère, comme on le fait dans les autres arts, nous
+trouvons en effet, j’imagine, notre avantage dans la pratique mutuelle de la
+justice et de la vertu, et c’est pour cela que chacun est porté à dire et à
+enseigner aux autres ce qui est juste et légal, supposons, dis-je, que nous
+ayons le même empressement sans réserve à nous enseigner mutuellement la
+flûte, penses-tu, Socrate, me dit-il, que les fils des bons joueurs de flûte
+deviendraient plus habiles que les fils des mauvais ? Je suis convaincu que
+non ; ce serait l’enfant le mieux doué pour la flûte, quel que fût son père, qui
+grandirait en renommée, et l’enfant mal doué qui resterait obscur, et souvent
+le fils d’un bon joueur de flûte resterait mauvais, et le fils d’un mauvais
+deviendrait bon ; cependant tous les citoyens seraient des joueurs de flûte
+passables, comparés aux ignorants, complètement étrangers à l’art de la flûte.
+   Tiens de même pour certain, dans le cas qui nous occupe, qu’un homme
+qui te paraît le plus injuste dans une société soumise à des lois, est juste et
+savant en justice, si on le compare à des hommes qui n’auraient ni éducation,
+ni tribunaux, ni lois, ni rien qui les contraigne jamais à cultiver la vertu,
+                                                     35
+espèce de sauvages semblables à ceux que le poète Phérécrate  a fait
+                         36
+représenter l’an passé au Lénæon . À coup sûr, si tu te trouvais parmi de tels
+hommes, comme les misanthropes parmi les sauvages qui forment le chœur
+de la pièce, tu t’estimerais heureux de tomber sur un Eurybate ou un
+         37
+Phrynondas , et tu gémirais et tu regretterais la méchanceté des gens d’ici.
+Mais maintenant tu te prévaux, Socrate, parce que tout le monde enseigne la
+vertu, dans la mesure de ses moyens, et qu’ainsi personne ne te paraît
+l’enseigner. C’est comme si tu cherchais quel maître nous apprend à parler
+grec : tu n’en trouverais pas. Et si tu cherchais de même un homme qui pût
+apprendre aux fils des artisans l’art même que leurs pères leur ont enseigné
+avec toute la capacité qui leur est propre à eux-mêmes et à ceux de leur
+profession, et qui pût les pousser plus loin encore, un tel maître, Socrate,
+serait, je crois, difficile à trouver, tandis qu’il serait fort aisé d’en trouver un
+pour des ignorants ; et la même chose peut se dire de la vertu et de tout le
+reste. Mais s’il y a des gens qui l’emportent tant soit peu sur les autres pour
+faire avancer dans la vertu, c’est déjà un joli privilège.
+   Or je crois être un de ceux-là ; je crois que je suis supérieur aux autres
+pour aider à devenir vertueux, que je mérite le salaire que j’exige, et même un
+plus grand, de l’aveu même de mes élèves. Aussi voici comment je procède
+pour me faire payer mes honoraires. Quand quelqu’un a reçu mes leçons, il
+me paye, s’il veut, la somme que je lui demande ; sinon, il entre dans un
+temple ; il y déclare sous la foi du serment le prix que vaut à ses yeux mon
+enseignement, et il y dépose juste la somme.
+   Voilà, Socrate, et la fable et les raisons par lesquelles je voulais te
+prouver que la vertu est matière d’enseignement, que c’est l’opinion des
+Athéniens et qu’il n’y a rien d’étonnant à ce que les fils de pères distingués
+soient sans mérite et les fils de pères sans mérite soient distingués, témoin les
+fils de Polyclète, jeunes gens de l’âge de Paralos et de Xanthippe ici présents,
+qui ne sont rien à côté de leur père, et d’autres fils d’artistes qui sont dans le
+même cas. Quant à ceuxci, il ne faudrait pas déjà les mettre en cause : leur
+jeunesse laisse encore à espérer. »
+XVII.
+
+   — Après avoir étalé cette longue et belle pièce d’éloquence, Protagoras
+se tut ; et moi, toujours sous le charme, je continuais à le regarder, comme
+s’il allait poursuivre, car je désirais l’entendre encore. Mais quand je me fus
+rendu compte qu’il avait réellement fini, je me ressaisis non sans peine, et,
+me tournant vers Hippocrate, je dis : « Ô fils d’Apollodore, combien je te suis
+obligé de m’avoir engagé à venir ici ! je ne donnerais pas pour beaucoup le
+plaisir d’avoir entendu ce que je viens d’entendre de Protagoras. Jusqu’à
+présent en effet je croyais qu’il n’y avait pas d’industrie humaine capable de
+faire des gens de bien ; maintenant je suis persuadé ; il n’y a qu’une petite
+difficulté qui m’arrête ; mais sans doute Protagoras l’éclaircira facilement, lui
+qui vient de jeter à profusion la lumière sur ces questions.
+   Si on s’entretenait sur ces mêmes sujets avec un de nos orateurs
+politiques, peut-être entendrait-on aussi des discours aussi beaux de la bouche
+d’un Périclès ou de quelque autre habile parleur ; mais qu’on leur pose des
+questions sur un point, ils sont comme les livres, ils ne savent ni répondre, ni
+interroger eux-mêmes ; mais si on leur demande le plus mince
+éclaircissement sur le sujet traité, comme des vases d’airain qu’on a choqués
+résonnent et continuent à résonner, tant qu’on ne met pas la main dessus,
+ainsi nos orateurs, à propos des moindres questions, font un discours à perte
+de vue. Protagoras au contraire est capable de tenir de longs et beaux
+discours, comme il vient de le montrer ; mais il est capable aussi, si on
+l’interroge, de répondre brièvement, et, s’il interroge, d’attendre et de
+recevoir la réponse, talent qui n’appartient qu’à peu de gens. Maintenant
+donc, Protagoras, il n’y a qu’un détail qui me tient en peine ; je serais
+pleinement satisfait, si tu voulais y répondre.
+   Tu dis que la vertu s’enseigne ; s’il y a quelqu’un au monde qui puisse
+m’en persuader, c’est toi ; mais il y a quelque chose qui m’a surpris dans ton
+discours et sur quoi je voudrais avoir l’esprit satisfait : tu as dit que Zeus
+avait envoyé la justice et la pudeur aux hommes ; d’autre part en plusieurs
+endroits de ton discours, tu as parlé de la justice, de la tempérance, de la
+sainteté, comme si tout cela n’était en somme qu’une seule chose, la vertu.
+Explique-moi donc nettement si la vertu est une, et si la justice, la
+tempérance, la sainteté n’en sont que des parties, ou si toutes ces qualités ne
+sont, comme je le disais tout à l’heure, que les noms d’une seule et même
+chose. Voilà ce que je désire encore de toi.
+XVIII.
+
+   — À cette question, Socrate, répondit Protagoras, la réponse est facile : la
+vertu est une, et les qualités dont tu parles en sont des parties.
+   — En sont-elles, dis-je, des parties au même titre que la bouche, le nez,
+les yeux, les oreilles sont des parties du visage, ou sont-elles comme les
+parties de l’or, qui ne diffèrent les unes des autres et du tout que sous le
+rapport de la grandeur et de la petitesse ?
+   — Elles sont comme les premières, ce me semble, Socrate, c’est-à-dire
+comme les parties du visage à l’égard du visage entier.
+   — Les hommes, continuai-je, ont-ils part, les uns à telle des parties de la
+vertu, les autres à telle autre, ou faut-il nécessairement, quand on en possède
+une, qu’on les ait toutes ?
+   — Pas du tout, dit-il, puisque l’on voit souvent des hommes courageux
+qui sont injustes ou des hommes justes qui ne sont pas sages.
+   — Ce sont donc aussi, dis-je, des parties de la vertu, la sagesse et le
+courage ?
+   —  Rien n’est plus certain, répliqua-t-il, et la sagesse est la plus
+importante de ces parties.
+   — Et chacune de ces parties, demandai-je, est différente de l’autre ?
+   — Oui.
+   — Est-ce que chacune d’elles a aussi sa propriété, comme les parties du
+visage ? L’œil n’est pas tel que l’oreille et n’a pas la même propriété, et
+aucune autre partie n’est pareille à une autre ni pour la propriété ni pour tout
+le reste. En est-il donc de même des parties de la vertu ? ne sont-elles pas,
+elles aussi, différentes l’une de l’autre et en elles-mêmes et dans leur
+propriété ? N’est-il pas évident qu’elles le sont, s’il faut suivre jusqu’au bout
+la comparaison ?
+   — C’est vrai, Socrate, dit-il.
+   — Alors, dis-je, parmi les parties de la vertu, il n’y en a pas une qui soit
+pareille à la science, à la justice, ni au courage, ni à la tempérance, ni à la
+sainteté ?
+   — Non, dit-il.
+   —  Eh bien, alors, repris-je, examinons ensemble ce qu’est chacune
+d’elles. Commençons par la justice : est-elle quelque chose de réel, ou n’est-
+elle rien ? Pour moi, je trouve que c’est quelque chose de réel. Et toi ?
+   — Moi aussi, dit-il.
+— Eh bien, si quelqu’un nous disait à tous deux : Dites-moi, Protagoras et
+Socrate, ce que vous avez nommé tout à l’heure la justice est-elle en soi juste
+ou injuste ? moi je lui répondrais qu’elle est juste. Et toi, ajouterais-tu ton
+suffrage au mien, ou es-tu d’un autre avis ?
+   — Je suis de ton avis, dit-il.
+   — Alors, la justice est la même chose qu’être juste ? Oui, répondrais-je à
+mon questionneur. Ne répondrais-tu pas de même ?
+   — Si, dit-il.
+   — S’il nous demandait ensuite : Ne dites-vous pas qu’il y a aussi une
+sainteté ? nous répondrions oui, je suppose ?
+   — Sans doute, répondit-il.
+   — Ne dites-vous pas que cette sainteté aussi est quelque chose ? Nous le
+reconnaîtrions, n’est-ce pas ? » Il en tomba d’accord aussi.
+   — « Mais à votre avis, cette sainteté est-elle en soi la même chose qu’être
+impie ou qu’être saint ? Je me fâcherais, moi, d’une telle question, et je
+répondrais : Parle mieux, l’ami. Il n’y aurait vraiment plus rien de saint, si la
+sainteté même n’était pas sainte. Et toi, ne répondrais-tu pas comme moi ?
+   — Absolument comme toi, dit-il.
+XIX.
+
+   — Si, continuant ses questions, il nous disait : Comment disiez-vous donc
+tout à l’heure ? Vous ai-je mal entendus ? Vous disiez, si je ne me trompe,
+que les parties de la vertu ont entre elles des rapports tels qu’aucune ne
+ressemble aux autres ; je lui répondrais pour ma part : Pour ce qui a été dit, tu
+l’as bien entendu ; mais quant à croire que c’est moi qui l’ai dit, tu as mal
+entendu. C’est Protagoras qui a fait cette réponse ; moi, je ne faisais
+qu’interroger. S’il reprenait : Socrate dit-il la vérité, Protagoras ? est-ce toi
+qui affirmes qu’aucune des parties de la vertu ne ressemble aux autres ? est-
+ce bien cela que tu soutiens ? que lui répondrais-tu ?
+   — Force me serait d’avouer, Socrate, dit-il.
+   — Et que pourrions-nous bien lui répondre, après cet aveu, Protagoras,
+s’il nous posait encore cette question : La sainteté n’est donc pas susceptible
+d’être une chose juste, ni la justice d’être une chose sainte, mais la justice est
+susceptible de n’être pas sainte, et la sainteté de n’être pas juste, c’est-à-dire
+                                        38
+que la sainteté peut être injuste, et la justice impie  ? que lui répondrions-
+nous ? Pour mon compte personnel, je répondrais que la justice est sainte et la
+sainteté juste ; et pour ton compte aussi, avec ta permission, je répondrais de
+même qu’assurément la justice est la même chose que la sainteté ou qu’elle
+s’en rapproche aussi près que possible, que très certainement la justice est
+pareille à la sainteté et la sainteté à la justice ; mais vois si tu t’opposes à ce
+que je réponde ainsi, ou si tu partages mon opinion.
+   — La chose ne me paraît pas si simple, Socrate, répliqua-t-il, que je
+puisse t’accorder que la justice est sainte et la sainteté juste ; il me semble
+qu’il y a quelque différence entre elles ; mais qu’importe ? admettons, si tu
+veux, que la justice est sainte et la sainteté juste.
+   — Non point, dis-je. Pas de si tu veux, ni de s’il te plaît ; ce ne sont pas
+des suppositions qu’il faut examiner, c’est toi et moi qu’il faut persuader,
+c’est toi et moi qui sommes en cause, et je pense que la meilleure manière de
+discuter est de supprimer ce si.
+   — Je reconnais, dit-il, que la justice a quelque ressemblance avec la
+sainteté ; car une chose quelconque ressemble toujours à une autre en quelque
+manière ; il y a quelque rapport de ressemblance entre le blanc et le noir,
+entre le dur et le mou et entre les choses qui paraissent le plus opposées les
+unes aux autres ; et ces parties mêmes dont nous disions tout à l’heure
+qu’elles avaient des propriétés différentes, que l’une n’était pas pareille à
+l’autre, je veux dire les parties du visage, ces parties se ressemblent et sont
+pareilles les unes aux autres par certains côtés, en sorte que tu pourrais
+prouver de cette façon, si tu voulais, que toutes ces parties se ressemblent
+entre elles ; mais il n’est pas juste, à mon avis, d’appeler semblables des
+choses qui ont quelque rapport de ressemblance, ni dissemblables des choses
+qui ont quelque rapport de différence, quelque mince que soit ce rapport. »
+   Étonné d’une telle réponse, je lui dis : « Le juste et le saint sont-ils donc
+vis-à-vis l’un de l’autre au point de n’avoir qu’un mince rapport de
+ressemblance ?
+   — Ce n’est pas tout à fait cela, dit-il, mais ce n’est pas non plus ce que tu
+parais penser.
+   — Eh bien ! dis-je, puisque ce débat ne semble pas de ton goût, laissons-
+le ; examinons dans ton discours un autre point, celui-ci par exemple.
+XX.
+   — La folie est quelque chose à tes yeux ?
+   — Oui.
+   — Cette chose n’a-t-elle pas exactement pour contraire la sagesse ?
+   — C’est mon avis, répondit-il.
+   — Quand des hommes règlent leurs actes sur le bien et l’utile, crois-tu
+                 39
+qu’ils sont tempérants , en se conduisant ainsi, ou tout le contraire ?
+   — Ils sont tempérants, dit-il.
+   — N’est-ce point par la tempérance qu’ils sont tempérants ?
+   — Si, forcément.
+
+                                                          40
+   — N’est-il pas vrai que ceux qui n’agissent pas bien agissent follement ,
+et ne sont pas tempérants en tant qu’ils agissent ainsi ?
+   — C’est aussi mon avis, dit-il.
+   — Agir follement est donc le contraire d’agir avec tempérance ?
+   — Oui.
+   — Ce qui est fait follement n’est-il pas fait par folie, et ce qui est fait avec
+tempérance, par tempérance ?
+   Il en convint.
+   — Ce qui est fait avec vigueur, n’est-il pas fait vigoureusement, et ce qui
+est fait avec faiblesse, faiblement ?
+   Il le reconnut.
+   — Et si quelque chose est fait avec vitesse, n’est-il pas fait vivement,
+avec lenteur, lentement ?
+   — Si.
+   — Et si quelque chose est fait de la même manière, n’est-il pas fait par le
+même principe, et d’une façon contraire, par un principe contraire ?
+   Il en demeura d’accord.
+   — Mais voyons, dis-je ; existe-t-il quelque chose de beau ?
+   Il l’admit.
+                                      41
+   — Ce beau a-t-il un autre contraire que le laid  ?
+   — Non.
+   — Poursuivons ; existe-t-il quelque chose de bon ?
+   — Oui.
+   — Ce bon a-t-il un autre contraire que le mauvais ?
+   — Non.
+   — De même, y a-t-il quelque chose d’aigu dans le son ?
+   — Oui.
+   — Cet aigu a-t-il un autre contraire que le grave ?
+   — Non.
+   —  Chaque contraire n’a donc qu’un seul contraire, dis-je, et non
+plusieurs ?
+   Il en convint.
+   — Allons, maintenant, dis-je ; récapitulons les choses dont nous sommes
+convenus. Nous sommes convenus que chaque contraire n’a qu’un seul
+contraire, et non plusieurs, n’est-ce pas ?
+   — Oui.
+   — Que ce qui est fait d’une manière contraire est fait par des principes
+contraires ?
+   — Oui.
+   — Nous sommes convenus que ce qui est fait follement est fait d’une
+manière contraire à ce qui est fait avec tempérance ?
+   — En effet.
+   — Que ce qui est fait avec tempérance est fait par tempérance, et ce qui
+est fait follement, par folie ?
+   Il en tomba d’accord.
+   — Donc si ces choses sont faites d’une manière contraire, elles sont faites
+par un principe contraire ?
+   — Oui.
+   — Or l’une est faite par tempérance, l’autre par la folie ?
+   — Oui.
+   — D’une manière contraire ?
+   — Sans doute.
+   — Donc par des principes contraires ?
+   — Oui.
+   — Dès lors la folie est contraire à la tempérance ?
+   — Il paraît.
+   — Eh bien ; te rappelles-tu que tout à l’heure nous avons reconnu que la
+folie est le contraire de la sagesse ?
+   Il le reconnut.
+   — Et qu’un contraire n’a qu’un seul contraire ?
+   — Oui.
+   — Alors, Protagoras, laquelle de ces deux assertions faut-il rétracter ?
+celle-ci, qu’un contraire n’a qu’un seul contraire, ou celle-là, que la sagesse
+est autre chose que la tempérance, qu’elles sont l’une et l’autre des parties de
+la vertu, et qu’elles sont seulement différentes, mais encore dissemblables et
+en elles-mêmes et dans leurs propriétés, comme les parties du visage ;
+laquelle de ces deux assertions, dis-je, devons-nous rétracter ? car elles sont
+en dissonance, puisqu’elles ne s’accordent ni ne s’harmonisent entre elles.
+Comment en effet pourraient-elles s’accorder, s’il faut nécessairement qu’un
+contraire n’ait qu’un seul contraire, et non plusieurs, et s’il apparaît d’autre
+part que la folie qui est une a pour contraire la sagesse et la tempérance ? Est-
+ce bien cela, Protagoras ? qu’en penses-tu ?
+   Il se déclara d’accord avec moi, mais bien malgré lui.
+   — La tempérance et la sagesse seraient donc une même chose ? Or nous
+avons déjà vu que la justice et la sainteté sont à peu près la même chose.
+Allons, Protagoras, dis-je, ne nous rebutons pas, examinons le reste.
+                                       42
+L’homme  qui fait une injustice est-il prudent  en tant qu’il fait une
+injustice ?
+   — Moi, Socrate, dit-il, je rougirais de l’admettre, mais beaucoup de gens
+le pensent.
+   — À qui m’adresserai-je alors, demandai-je, à eux ou à toi ?
+   — Si tu veux bien, répliqua-t-il, commence par discuter l’opinion de ces
+gens-là.
+   — Peu m’importe, pourvu que ce soit toi qui répondes, si c’est ou non ta
+manière de voir ; car c’est la chose que j’examine avant tout, bien que par le
+fait nous nous trouvions peut-être nous-mêmes, et moi qui questionne et toi
+qui réponds, soumis aussi à l’examen. »
+   Protagoras fit d’abord des façons, alléguant que la matière était épineuse,
+puis il consentit pourtant à répondre.
+XXI.
+
+   — « Allons, dis-je, reprenons la question au commencement. Penses-tu
+qu’il y ait des gens qui soient prudents en commettant l’injustice ?
+   — Je veux bien l’admettre, dit-il.
+   — Être prudent, n’est-ce pas, selon toi, penser bien ?
+   — Si.
+   —  Penser bien, n’est-ce pas prendre le bon parti en commettant
+l’injustice ?
+   — Admettons-le, répondit-il.
+   — Mais, dis-je, prend-on le bon parti quand on réussit en commettant
+l’injustice, ou quand on ne réussit pas ?
+   — Quand on réussit.
+   — Tu penses donc qu’il y a des choses bonnes ?
+   — Oui.
+   —  Ces choses bonnes, repris-je, sont-elles celles qui sont utiles aux
+hommes ?
+   — Oui, par Zeus, répliqua-t-il ; mais j’appelle aussi bonnes des choses
+qui ne sont pas utiles aux hommes. » Il me parut que Protagoras était à
+présent agacé, ennuyé et gêné de répondre. Le voyant en cet état, je le
+ménageai et l’interrogeai avec douceur : « Entends-tu par là, Protagoras, dis-
+je, des choses qui ne sont utiles à personne, ou des choses qui n’ont même
+pas d’utilité du tout ? Et accordes-tu aussi le nom de bonnes à des choses de
+cette sorte ?
+   — Pas du tout, dit-il ; mais je sais, moi, beaucoup de bonnes choses qui
+sont préjudiciables aux hommes, comme certains aliments, breuvages,
+drogues et quantité d’autres choses, d’autres qui leur sont utiles, et d’autres
+qui leur sont indifférentes, mais qui sont bonnes pour les chevaux. J’en sais
+qui sont utiles aux bœufs seulement, d’autres aux chiens. Telles qui ne sont
+utiles à aucun des animaux, le sont aux arbres ; et dans l’arbre, certaines sont
+bonnes aux racines, mauvaises aux jeunes pousses ; ainsi le fumier est bon à
+toutes les plantes, si on le met aux racines ; mais si on veut en couvrir les
+rejetons et les jeunes pousses, c’est pour gâter tout. De même l’huile est tout
+à fait pernicieuse à toutes les plantes, et c’est la grande ennemie des poils
+chez tous les animaux, sauf chez l’homme, où elle leur est salutaire, comme
+elle l’est à tout le corps. Le bon est quelque chose de si varié et de si divers
+que, même dans le corps de l’homme, l’huile n’est bonne que pour l’usage
+externe, et qu’elle est très mauvaise pour l’usage interne. Voilà pourquoi tous
+les médecins interdisent aux malades l’usage de l’huile ; ils ne leur en laissent
+absorber qu’à très petite dose, juste assez pour chasser l’impression
+                                                     43
+désagréable que font les aliments et les viandes sur le sens de l’odorat . »
+XXII.
+
+   — Ce discours fini, les assistants applaudirent à grand bruit à l’éloquence
+de Protagoras. Pour moi, je lui dis : « La nature, Protagoras, m’a donné peu
+de mémoire, et quand on me tient de longs discours, je perds de vue le sujet
+de la discussion. Si j’étais dur d’oreille, tu penserais qu’il faut, pour
+s’entretenir avec moi, parler plus haut qu’avec les autres ; montre donc à
+présent la même complaisance, et puisque tu es tombé sur un homme
+oublieux, resserre tes réponses et fais-les plus courtes, si tu veux que je te
+suive.
+   — Comment  désires-tu que j’abrège mes réponses ? dois-je, dit-il, les
+faire plus courtes qu’il ne faut ?
+   — Pas du tout, répondis-je.
+   — Aussi courtes qu’il faut ? dit-il.
+   — Oui, dis-je.
+   — Mais cette juste mesure dans les réponses, est-ce moi qui en serai juge,
+ou toi ?
+   — J’ai ouï dire, repris-je, que tu es capable – on dit même que tu peux
+communiquer ce talent aux autres – de traiter les mêmes matières, si tu le
+veux, avec une abondance telle que la parole ne te fait jamais défaut, ou avec
+une brièveté telle que personne ne peut s’exprimer en moins de mots. Si donc
+tu veux discuter avec moi, adopte la seconde manière, la manière concise.
+   — J’ai dans ma vie, Socrate, me dit-il, engagé des luttes de paroles avec
+bien des gens ; si j’avais fait ce que tu me demandes, si j’avais réglé ma façon
+de discuter sur les exigences de mes contradicteurs, je n’aurais jamais éclipsé
+personne, et le nom de Protagoras ne serait pas connu parmi les Grecs. »
+   Je compris qu’il n’était pas content des réponses qu’il m’avait faites
+jusqu’alors, et qu’il ne consentirait pas volontiers à continuer la discussion de
+cette manière. Dès lors, pensant que je n’avais plus que faire de prendre part à
+ces entretiens, je lui dis : « Moi non plus, Protagoras, je ne veux pas insister
+pour discuter avec toi suivant un procédé qui ne te plaît pas ; mais quand tu
+voudras discuter en te mettant à ma portée, je suis ton homme ; on dit en
+effet, et tu avoues toi-même que tu t’entends aussi bien à resserrer qu’à
+amplifier une discussion, car tu es un habile homme ; moi au contraire je
+n’entends rien à ces longs développements, et je ne puis que regretter mon
+incapacité. C’était à toi, qui es passé maître dans l’une comme dans l’autre
+manière, de condescendre à ma faiblesse, pour que l’entretien continuât ;
+mais puisque tu ne veux pas, comme j’ai certaine affaire qui ne me
+permettrait pas de rester pour entendre tes longues amplifications – il faut en
+effet que je me rende quelque part – je m’en vais, malgré le plaisir que
+j’aurais à t’entendre sur le sujet qui nous occupe. »
+   En disant cela, je me levai pour partir. Mais comme je me levais, Callias
+me prend la main de sa main droite, et de la gauche saisit mon manteau, en
+me disant : « Nous ne te laisserons pas partir, Socrate ; car, si tu pars,
+l’entretien n’ira plus de même. Je te prie donc de rester avec nous ; car pour
+moi, rien au monde ne peut m’être aussi agréable qu’une discussion entre toi
+et Protagoras ; fais-nous donc ce plaisir à tous. » Je lui répondis, déjà debout
+pour sortir : « Ô fils d’Hipponicos, j’ai toujours admiré ton amour de la
+sagesse, et encore à présent je le loue et le prise ; aussi je voudrais bien te
+faire plaisir, si tu me demandais des choses en mon pouvoir ; mais c’est
+                                                       44
+comme si tu me demandais de suivre le jeune coureur Crison d’Himère , ou
+                                                        45
+de lutter de vitesse avec un champion du long stade ou un hémérodrome . Je
+te répondrais que je désirerais moi-même beaucoup plus que toi de tenir pied
+à ces coureurs, mais que c’est chose impossible pour moi ; si tu veux nous
+voir courir dans la même carrière, Crison et moi, prie-le de s’accommoder à
+ma faiblesse ; car moi je suis incapable de courir vite, tandis que lui peut
+courir lentement. Si donc tu désires nous entendre, Protagoras et moi, prie-le
+de continuer à répondre juste à mes questions, en peu de mots, comme il l’a
+fait d’abord ; sinon quelle sorte de conversation est-ce là ? Pour moi, j’ai
+toujours cru que causer en société et faire des harangues étaient deux choses
+différentes. – Cependant, tu le vois, Socrate, reprit Callias : Protagoras
+semble bien dans son droit, quand il demande qu’on lui permette de discuter
+à sa manière, comme toi à la tienne. »
+XXIII.
+
+   — Ici Alcibiade prit la parole et dit : « Tu n’es pas juste, Callias ; car
+Socrate confesse qu’il n’a pas le don des longs discours et qu’il cède cet
+avantage à Protagoras ; mais quant à mener une discussion et savoir présenter
+ou recevoir un argument, je serais bien surpris s’il était inférieur à qui que ce
+soit. Si donc Protagoras aussi confesse qu’il ne vaut pas Socrate dans la
+discussion, Socrate n’en demande pas davantage ; mais s’il lui dispute la
+supériorité, qu’il accepte la discussion par demandes et par réponses, sans
+tirer ses discours en longueur à chaque question ; qu’il cesse d’éluder les
+arguments, de refuser la réplique et de s’étendre jusqu’à faire oublier de quoi
+il est question à la plupart des auditeurs ; car je garantis, moi, que Socrate
+n’oubliera rien, bien qu’il s’amuse à soutenir qu’il n’a pas de mémoire. Mon
+avis est donc que la prétention de Socrate est la mieux fondée, puisqu’il faut
+que chacun dise son sentiment. »
+   Après Alcibiade, ce fut Critias, si je ne me trompe, qui prit la parole :
+« Prodicos et Hippias, dit-il, il me semble que Callias est bien décidément
+pour Protagoras ; quant à Alcibiade, il veut toujours avoir raison, quoi qu’il
+se mette en tête. Mais nous, nous ne devons en aucune façon prendre parti ni
+pour Socrate, ni pour Protagoras ; prions-les plutôt tous les deux
+impartialement de ne pas laisser là l’entretien. »
+   Critias ayant ainsi parlé, Prodicos prit la parole : « Il me semble que tu as
+raison, Critias ; il faut que ceux qui assistent à ces sortes de conversations
+écoutent les deux interlocuteurs impartialement, mais non également, car ce
+n’est pas la même chose ; il faut prêter à l’un et à l’autre une oreille
+impartiale, mais non tenir la balance égale entre eux ; il faut accorder
+davantage au plus habile et moins au plus ignorant. Moi aussi, Protagoras et
+Socrate, je vous en prie, mettez-y de la complaisance, et discutez ensemble
+sans vous quereller : discuter, tout en restant bienveillants, c’est le fait de
+gens amis ; se quereller est le fait d’adversaires et d’ennemis. En m’écoutant,
+vous nous donneriez le spectacle de la plus belle discussion, et ce serait pour
+vous qui parlez le meilleur moyen d’obtenir de nous qui écoutons, je ne dirai
+pas la louange, mais l’approbation ; car l’approbation réside dans les âmes
+des auditeurs et ne trompe pas ; la louange, sur les lèvres de gens qui souvent
+mentent et déguisent leur opinion ; et ce serait aussi pour nous, les auditeurs,
+le meilleur moyen d’en tirer, non du plaisir, mais de la joie ; car la joie est la
+satisfaction de l’esprit seul qui apprend et qui acquiert la sagesse, et le plaisir
+est la satisfaction du corps seul, quand il mange ou éprouve quelque autre
+sensation agréable. »
+            46
+   Ce discours  de Prodicos reçut un bon accueil d’une bonne partie des
+assistants.
+XXIV.
+
+   — Après Prodicos, le savant Hippias tint ce discours : « Vous qui êtes ici
+présents, je vous regarde tous comme parents, alliés, concitoyens, non par la
+                   47
+loi, mais par la nature  ; car le semblable est naturellement parent du
+semblable ; mais la loi, tyran des hommes, fait souvent violence à la nature.
+Aussi serait-ce une honte pour nous, qui connaissons la nature des choses, qui
+sommes les plus savants des Grecs et qui, à ce titre, avons pris, dans la Grèce,
+pour lieu de rendez-vous, le prytanée même de la sagesse, et dans cette ville,
+la maison la plus considérable et la plus opulente, de ne rien dire qui soit
+digne de notre réputation, et de nous quereller les uns avec les autres, comme
+les derniers des hommes. Je vous conjure donc et vous conseille, Protagoras
+et Socrate, de vous accommoder et de vous en rapporter à nous, comme à des
+arbitres qui vous engagent à prendre un milieu : toi, Socrate, ne sois pas trop
+exigeant sur la forme rigoureuse du dialogue à la manière concise, si elle ne
+plaît pas à Protagoras ; mais détends et lâche les rênes à tes paroles, afin
+qu’elles nous apparaissent plus magnifiques et plus belles ; et toi, de ton côté,
+Protagoras, ne mets pas toutes voiles dehors, et, te laissant emporter par le
+vent favorable, ne fuis pas vers la haute mer de l’éloquence jusqu’à perdre de
+vue la terre ; mais prenez l’un et l’autre la route intermédiaire. Voilà ce que
+vous ferez, et vous choisirez, si vous m’en croyez, un juge, un président, un
+prytane qui veillera à la juste mesure de vos discours à tous deux. »
+XXV.
+
+   — Cette proposition plut à la compagnie et obtint tous les suffrages.
+Callias déclara qu’il ne me laisserait pas partir et on me pria de choisir un
+président. Je répondis « qu’il serait humiliant pour nous de soumettre nos
+discours à un arbitre ; si en effet on choisissait un homme qui fût inférieur à
+nous, il ne convenait pas que le pire fît la loi aux meilleurs ; s’il était notre
+égal, cela ne convenait pas davantage ; car un égal ferait tout comme nous et
+ainsi le choix en serait superflu. Mais, dira-t-on, vous choisirez un meilleur
+que vous. À dire vrai, je regarde comme impossible qu’on choisisse un plus
+habile homme que Protagoras. Si enfin vous choisissez quelqu’un qui ne
+vaille pas mieux que lui, mais que vous donniez pour supérieur à lui, c’est
+faire un affront à Protagoras que de lui imposer un surveillant comme à un
+homme de peu ; pour ce qui me concerne, je n’y attache aucune importance.
+Mais voici ce que je veux bien faire pour satisfaire votre désir et continuer
+notre réunion et notre conversation. Si Protagoras ne veut pas répondre, qu’il
+interroge ; moi, je répondrai et en même temps j’essaierai de lui montrer
+comment je pense qu’il faut répondre lorsqu’on est interrogé ; puis, quand
+j’aurai répondu à toutes les questions qu’il lui plaira de me poser, qu’à son
+tour il me donne la réplique comme je la lui aurai donnée ; si alors il montre
+peu d’empressement à répondre à la question même, vous et moi, nous lui
+ferons en commun la prière que vous m’avez faite, de ne point rompre la
+conversation. Il n’est aucunement besoin pour cela d’avoir un président :
+vous présiderez tous en commun. Tout le monde approuva cette manière de
+faire. » Elle n’était pas du tout du goût de Protagoras ; mais il fut forcé
+d’accorder qu’il interrogerait, et qu’après avoir suffisamment interrogé, il
+répondrait à son tour en peu de mots. Il commença donc à interroger de cette
+manière.
+XXVI.
+
+   — « Je suis d’avis, Socrate, dit-il, que l’objet principal de l’éducation est
+la connaissance de la poésie, c’est-à-dire la capacité de discerner ce qui est
+bien et ce qui est mal dans les œuvres des poètes, et le talent de les analyser et
+de résoudre les questions qu’elles soulèvent. Et maintenant je vais te poser
+une question qui ne s’écartera pas du sujet, la vertu, dont nous disputions tout
+à l’heure, toi et moi, mais qui nous transportera dans le domaine de la poésie :
+                                                    48
+ce sera toute la différence. Simonide dit quelque part à Scopas , fils de
+Créon le Thessalien :
+   « C’est une chose difficile, je l’avoue, de devenir un véritable homme de
+        49
+bien, carré  des mains, des pieds et de l’esprit et fait sans reproche. »
+   Connais-tu ce poème, ou te le réciterai-je en entier ?
+   — Ce n’est pas nécessaire, dis-je, je le connais, et justement je l’ai étudié
+avec soin.
+   — Tant mieux, dit-il. Et maintenant comment le trouves-tu ? beau et
+juste, ou non ?
+   — Tout à fait beau et juste, repartis-je.
+   — Mais trouves-tu qu’il soit beau, si le poète s’y contredit ?
+   — Non, dis-je.
+   — Eh bien ! reprit-il, examine-le mieux.
+   — Mais, mon cher, je l’ai examiné suffisamment.
+   — Alors, tu sais, dit-il, que dans la suite du poème il dit :
+
+                  50
+   « Le mot de Pittacos  non plus ne me paraît pas juste, bien qu’il sorte de
+la bouche d’un sage, quand il prononce qu’il est difficile d’être homme de
+bien. »
+   — Sais-tu bien que c’est le même homme qui dit ceci, et ce que j’ai cité
+tout à l’heure ?
+   — Je le sais, dis-je.
+   — Eh bien ! reprit-il, trouves-tu que ces deux passages s’accordent ?
+   — Il me le semble. Tout en faisant cette réponse, j’appréhendais pourtant
+qu’il ne fût dans le vrai. Et toi, ajoutai-je, tu ne trouves pas qu’ils
+s’accordent ?
+   — Comment  trouver qu’un homme s’accorde avec lui-même, quand il
+affirme ces deux choses à la fois ; quand, après avoir posé lui-même en
+principe qu’il était difficile de devenir un véritable homme de bien, il l’oublie
+un peu plus loin, dans le même poème, et, citant Pittacos, qui a dit la même
+chose que lui, à savoir qu’il est difficile d’être vertueux, il le blâme et déclare
+qu’il ne l’approuve pas, quoique Pittacos parle exactement comme lui ? Or
+quand il blâme un homme qui tient le même langage que lui, il est évident
+qu’il se blâme lui-même et qu’il s’est trompé dans le premier passage ou dans
+le second. »
+   Ce discours souleva de bruyants applaudissements parmi beaucoup
+d’auditeurs. Et moi, tout d’abord, comme si j’avais été frappé par un habile
+boxeur, je fus étourdi et la tête me tourna sous le coup de ses paroles et des
+acclamations. Puis, à te parler franchement, je cherchai à gagner du temps
+pour approfondir la pensée du poète ; c’est pourquoi je me tournai vers
+Prodicos et l’interpellant : « Prodicos, lui dis-je, Simonide est un compatriote
+à toi ; il est juste que tu viennes à son secours ; je crois donc devoir t’appeler
+à mon aide, comme chez Homère le Scamandre pressé par Achille appelle à
+lui le Simoïs, en lui disant :
+                                                  51
+   « Cher frère, unissons-nous pour arrêter ce puissant guerrier . »
+   Moi aussi, je t’appelle à moi dans la crainte que Protagoras ne renverse
+notre Simonide ; pour le maintenir debout, il ne faut rien de moins que ta
+science, cette science qui te fait distinguer la volonté et le désir, comme deux
+choses différentes, et qui t’a fait dire tant de belles choses tout à l’heure.
+Mets-la encore en usage et vois si tu es du même avis que moi, qui ne trouve
+pas que Simonide se contredise. Déclare-nous donc d’abord ton sentiment,
+Prodicos : te semble-t-il que devenir et être soient choses identiques ou
+différentes ?
+   — Différentes, par Zeus, répondit Prodicos.
+   — N’est-il pas vrai, dis-je, que dans le premier passage Simonide nous a
+révélé lui-même sa pensée, qu’il est difficile de devenir un véritable homme
+de bien.
+   — C’est vrai, répondit Prodicos.
+   —  Et quand il blâme Pittacos, dis-je, ce n’est pas, comme le pense
+Protagoras, d’avoir dit la même chose que lui, mais une chose différente ; car
+Pittacos n’a pas dit, comme Simonide, que la difficulté était de devenir
+vertueux, mais d’être vertueux, et ce n’est pas la même chose, Protagoras,
+Prodicos te l’affirme, qu’être et devenir et, si être et devenir sont deux,
+Simonide ne s’est pas contredit. Prodicos et bien d’autres pourraient peut-être
+dire avec Hésiode qu’il est difficile de devenir homme de bien, parce que
+« devant la vertu les dieux ont mis la sueur ; mais que, lorsqu’on est arrivé
+                                                    52
+au sommet, elle devient facile à garder, quoique difficile à atteindre . »
+XXVII.
+
+   — Prodicos, ayant entendu ces paroles, me donna son approbation ; mais
+Protagoras répliqua : « Ton interprétation, Socrate, ne fait qu’aggraver la
+faute du texte. »
+   Je lui répondis : « Alors, j’ai fait de mauvaise besogne, selon toi,
+Protagoras, et je suis un plaisant médecin en voulant guérir le mal, je
+l’aggrave.
+   — Mais oui, c’est ainsi, dit-il.
+   — Comment cela ? dis-je.
+   — Le poète aurait bien peu d’expérience, dit-il, de prétendre, comme tu le
+fais, que l’acquisition de la vertu est une chose facile, alors qu’au jugement
+de tout le monde, c’est la plus difficile de toutes.
+   — Par Zeus, m’écriai-je, c’est une chance que Prodicos soit présent à
+notre discussion ; car la science de Prodicos, Protagoras, semble bien être une
+science divine et ancienne, qui remonte à Simonide ou même à un passé plus
+reculé. Mais cette science, il paraît bien que tu l’ignores, toi qui sais tant de
+choses ; tandis que moi, j’y suis versé, étant l’élève de Prodicos. Ainsi, dans
+le cas présent, il me semble que tu ne te rends pas compte que peut-être
+                            53
+Simonide n’a pas pris le mot difficile  dans l’acception que tu lui donnes ; tu
+fais comme moi pour le mot terrible, à propos duquel Prodicos me reprend
+toujours, quand pour te louer, toi ou un autre, je dis Protagoras est un savant
+et terrible homme ; il me demande si je n’ai pas honte d’appeler terribles les
+choses qui sont bonnes ; car terrible, selon lui, désigne quelque chose de
+mauvais ; en effet on ne dit jamais terrible richesse, terrible paix, terrible
+santé ; mais on dit : terrible maladie, terrible guerre, terrible pauvreté, attendu
+que ce qui est terrible est mauvais. Il se pourrait de même que le mot difficile
+désignât pour les gens de Céos et pour Simonide une chose mauvaise en
+quelque autre chose que tu ne devines pas. Demandons-le à Prodicos : c’est à
+lui qu’il faut s’adresser pour expliquer la langue de Simonide. Disnous,
+Prodicos, que voulait dire Simonide par le mot difficile ?
+   — Mauvais, répondit-il.
+   — Voilà donc pourquoi, Prodicos, repris-je, Simonide blâme Pittacos de
+prétendre qu’il est difficile d’être vertueux, comme s’il lui avait entendu dire
+qu’il est mauvais d’être vertueux.
+   — Crois-tu, Socrate, répondit-il, que Simonide veuille faire entendre ici
+et reprocher à Pittacos autre chose que son ignorance de la propriété des
+                                                      54
+termes, Pittacos étant de Lesbos et habitué à parler un dialecte barbare  ?
+   — Entends-tu, dis-je, Protagoras, ce que dit Prodicos ? n’y trouves-tu rien
+à redire ?
+   — Tu es bien loin de la vérité, Prodicos, répondit Protagoras, et je suis
+bien assuré que Simonide luimême donnait au mot difficile le sens que nous
+lui donnons tous, non pas de mauvais, mais de malaisé, de pénible à faire.
+   — C’est aussi mon avis, Protagoras, dis-je ; c’est bien cela que Simonide
+a voulu dire, et Prodicos le sait fort bien ; mais il s’amusait et voulait te
+                                                      55
+mettre à l’épreuve, pour voir si tu serais de force à soutenir ton opinion .
+   Que d’ailleurs Simonide ne donne pas à difficile le sens de mauvais, j’en
+vois une preuve irréfutable dans la phrase qui suit immédiatement et que
+voici :
+   « Un dieu seul peut jouir de ce privilège. »
+   Est-il possible que Simonide soutienne qu’il est mauvais d’être vertueux,
+pour affirmer aussitôt après qu’un dieu seul peut l’être et pour attribuer ce
+privilège à la seule divinité ? En ce cas Prodicos ferait de Simonide un impie,
+                   56
+indigne d’être de Céos . Mais quel était le dessein de Simonide en
+composant ce poème ? Je vais t’en dire mon avis, pour peu que tu sois
+curieux de mettre mon savoir à l’épreuve, dans ce que tu appelles la lecture
+des poètes, ou, si tu le préfères, je te cède la parole. »
+   À ma proposition, Protagoras répondit : « Comme tu voudras, Socrate. »
+De leur côté Prodicos et Hippias me pressèrent vivement de parler, et les
+autres aussi.
+XXVIII.
+
+   — Je vais donc essayer, dis-je, de vous expliquer ce que je pense de ce
+poème. La Crète et Lacédémone sont les pays de la Grèce où la philosophie a
+été le plus anciennement et le plus parfaitement cultivée, et les sophistes y ont
+été plus nombreux qu’en aucun lieu du monde : mais ces peuples se
+défendent de l’être, et feignent l’ignorance, comme les sophistes dont parle
+Protagoras ; car ils ne veulent pas laisser voir qu’ils surpassent les Grecs en
+sagesse ; ils veulent seulement paraître supérieurs dans l’art des combats et
+par le courage, persuadés que, si l’on savait ce qui fait leur supériorité, tout le
+monde voudrait s’appliquer à la sagesse. Or, en cachant ainsi leur talent, ils
+ont induit en erreur ceux qui laconisent dans les différents États et qui, par
+                                 57
+esprit d’imitation, s’abîment les oreilles , s’enveloppent les mains de
+lanières de cuir, s’éprennent de gymnastique et portent des manteaux courts,
+dans l’idée que c’est par là que les Lacédémoniens sont supérieurs aux
+Grecs ; mais lorsque les Lacédémoniens veulent s’entretenir sans gêne avec
+leurs sophistes et qu’ils en ont assez des entretiens secrets, ils chassent les
+étrangers qui séjournent chez eux, aussi bien leurs imitateurs que les autres,
+et ils s’entretiennent avec les sophistes à l’insu des étrangers ; en outre ils ne
+permettent pas aux jeunes gens – et en cela les Crétois font comme eux – de
+sortir de leur pays pour aller dans d’autres États, de peur qu’ils ne
+désapprennent ce qu’on leur a enseigné chez eux. Et il y a dans ces deux
+États non seulement des hommes, mais encore des femmes qui se piquent
+hautement d’être instruites.
+   Vous pouvez juger que je dis la vérité et que les Lacédémoniens sont
+supérieurement entraînés aux entretiens philosophiques par le fait que voici.
+Entretenez-vous avec le dernier des Lacédémoniens ; pendant presque tout
+l’entretien, vous le trouverez insignifiant ; mais à la première occasion, il jette
+au milieu de la conversation un mot plein de sens, bref et serré, comme un
+trait lancé d’une main habile, en sorte que son interlocuteur a l’air d’un enfant
+à côté de lui. Aussi a-t-on remarqué de nos jours, comme certains l’avaient
+déjà fait autrefois, que l’institution lacédémonienne repose beaucoup plus sur
+le goût de la philosophie que sur le goût de la gymnastique, parce que le
+talent de trouver des traits pareils n’appartient qu’à des gens d’une éducation
+parfaite. De ce nombre étaient Thalès de Milet, Pittacos de Mytilène, Bias de
+                                               58
+Priène, notre Solon, Cléobule de Lindos, Mison de Khéné  et Chilon de
+Lacédémone qui passait pour être le septième de ces sages. Tous furent des
+émules, des partisans et des sectateurs de l’éducation lacédémonienne, et il
+est facile de voir que leur sagesse ressemblait à celle des Lacédémoniens par
+les sentences concises et dignes de mémoire attribuées à chacun d’eux. Ces
+sages s’étant rassemblés offrirent en commun à Apollon les prémices de leur
+sagesse et firent graver sur le temple de Delphes ces maximes qui sont dans
+toutes les bouches : Connais-toi toi-même et Rien de trop.
+   Mais pourquoi rapporté-je tout ceci ? C’est pour vous faire voir que la
+manière des anciens sages était caractérisée par une sorte de concision
+laconique. Or de Pittacos en particulier on répétait ce mot vanté par les
+sages : « Il est difficile d’être homme de bien. »
+   Simonide donc, qui aspirait à la gloire de passer pour un sage, comprit
+que, s’il jetait à terre cette maxime, comme on terrasse un athlète célèbre, et
+s’il en triomphait, lui-même se ferait un nom parmi les hommes de son
+temps ; c’est donc contre cette maxime qu’il voulait abattre et dans le but que
+je viens de dire que Simonide a composé tout son poème, du moins il me le
+semble.
+XXIX.
+
+   —  Examinons-le donc tous ensemble, et voyons si j’ai raison. Tout
+d’abord le commencement du poème paraîtrait extravagant si, voulant dire
+qu’il est difficile d’être vertueux, Simonide insérait dans sa phrase ce je
+l’avoue, car ce je l’avoue est une addition absolument sans but, si l’on ne
+suppose pas que Simonide fait le procès au mot de Pittacos, et que, quand
+Pittacos dit : « Il est difficile d’être vertueux », Simonide le lui conteste en
+disant : « Non, mais, je l’avoue, Pittacos, devenir vertueux est difficile
+                                           59
+véritablement. » Il ne dit pas véritablement vertueux , ce n’est pas sur
+vertueux que porte le mot véritablement, comme si, parmi les gens vertueux,
+les uns étaient vertueux véritablement, les autres vertueux, sans l’être
+véritablement, ce serait une absurdité, indigne de Simonide ; mais il faut
+admettre qu’il y a hyperbate du mot véritablement, et, prenant pour texte le
+mot de Pittacos, supposer entre Pittacos et Simonide un dialogue où le
+premier dit : « Mes amis, il est difficile d’être vertueux », à quoi le second
+répond : « Tu te trompes, Pittacos, ce n’est pas d’être, c’est de devenir
+vertueux, carré des mains, des pieds et de l’esprit et fait sans reproche, c’est
+cela, je l’avoue, qui est difficile véritablement. » De cette manière on voit que
+l’insertion de je l’avoue est fondée en raison, et que la place exacte de
+véritablement est à la fin. Tout ce qui suit rend témoignage de la valeur
+assignée à ces deux mots. Il y a dans le poème beaucoup de détails dont on
+pourrait montrer la convenance, car il réunit par excellence la grâce et
+l’exactitude ; mais il serait trop long de l’étudier ainsi par le menu. Je me
+contenterai d’expliquer le caractère général et le dessein du poème et de
+montrer que d’un bout à l’autre il a pour objet essentiel de réfuter le mot de
+Pittacos.
+XXX.
+
+   — En effet, que dit Simonide un peu plus loin ? Le voici, traduit en
+prose : il est, je l’avoue, véritablement difficile de devenir homme de bien ;
+néanmoins on peut le devenir pour un temps ; mais, après qu’on l’est devenu,
+persévérer dans cette disposition, et être un homme de bien à la manière que
+tu dis, Pittacos, c’est impossible et au-dessus des forces de l’homme ; c’est un
+privilège qui appartient à Dieu seul : « Mais pour l’homme il est impossible
+qu’il ne devienne pas méchant, quand un malheur insurmontable l’abat. »
+   Mais quel est celui qu’un malheur insurmontable abat, dans le
+gouvernement d’un vaisseau par exemple ? Évidemment ce n’est pas
+l’ignorant ; car l’ignorant est toujours abattu. De même qu’on ne peut
+terrasser un homme couché, mais qu’on peut terrasser et coucher un homme
+debout, mais un homme couché, non pas ; ainsi un malheur insurmontable
+peut abattre un homme de ressources, mais un homme qui en a toujours été
+dénué, non pas. C’est ainsi qu’une violente tempête qui se déchaîne peut
+déconcerter le pilote, que la venue d’une saison mauvaise peut déconcerter le
+laboureur, et un accident du même genre le médecin. Il est en effet possible
+que le bon devienne mauvais, comme en témoigne un autre poète qui a dit :
+
+                                         60
+   « L’homme de bien est tantôt méchant, tantôt bon . »
+   Mais il n’est pas possible que l’homme méchant devienne méchant : il
+l’est nécessairement toujours. Ainsi quand un homme industrieux, sage et
+bon est abattu par un malheur insurmontable, il n’est pas possible qu’il ne
+soit pas méchant. Toi, Pittacos, tu soutiens qu’il est difficile d’être vertueux ;
+en réalité il est difficile, quoique possible, de devenir vertueux ; l’être, est
+impossible ;
+   « Car tout homme est bon, quand il fait bien, méchant, quand il fait
+   61
+mal . »
+   Qu’est-ce donc que bien faire par rapport aux lettres, et qu’est-ce qui rend
+un homme bon dans les lettres ? Il est évident que c’est d’apprendre les
+lettres. Quelle est la bonne manière de faire pour faire un bon médecin ? Il est
+évident que c’est d’apprendre à soigner les malades et que celui qui les
+soigne mal est un mauvais médecin. Mais qui peut devenir mauvais
+médecin ? Il est évident que la condition préalable pour cela est d’être
+d’abord médecin, puis bon médecin ; on peut alors devenir mauvais
+médecin ; mais nous qui ignorons la médecine, nous ne saurions, en faisant
+mal, devenir médecins, non plus que charpentiers, ni artisans d’aucune
+     62
+espèce . Or quiconque ne saurait devenir médecin, en faisant mal, ne saurait
+évidemment non plus devenir mauvais médecin. Ainsi l’homme de bien peut
+devenir méchant par l’effet de l’âge, ou du travail, ou de la maladie, ou de
+quelque autre accident ; car la seule manière de mal faire, c’est d’être privé
+de la science ; mais le méchant ne saurait devenir méchant, puisqu’il l’est
+toujours, et pour qu’il pût devenir méchant, il faudrait qu’il eût été bon
+d’abord. Ainsi cette partie du poème aussi tend à prouver qu’il n’est pas
+possible d’être homme de bien d’une manière durable, mais que le même
+homme peut devenir bon et devenir méchant, et que ceux-là sont le plus
+longtemps et le plus vertueux qui sont aimés des dieux.
+XXXI.
+
+   — Donc tout cela est dirigé contre Pittacos, et la suite du poème le fait
+mieux voir encore, car il y est dit :
+   « Voilà pourquoi je ne chercherai point une chose impossible à trouver,
+et je ne risquerai pas inutilement la part d’existence qui m’est assignée dans
+l’irréalisable espoir de découvrir un homme tout à fait sans reproche parmi
+nous qui cueillons les fruits de la vaste terre ; mais si je le trouve, je viendrai
+vous le dire. »
+   C’est avec cette force qu’il attaque dans tout le cours du poème le mot de
+Pittacos :
+   « J’approuve et j’aime volontairement tout homme qui ne fait rien de
+honteux ; mais contre la nécessité la lutte est impossible, même aux dieux. »
+   Ceci aussi vise au même but ; car Simonide n’était pas assez mal instruit
+                                                          63
+pour dire qu’il louait un homme qui ne fait aucun mal volontairement ,
+comme s’il y avait des gens pour faire le mal volontairement.
+   Pour moi, je suis à peu près persuadé que, parmi les philosophes, il n’y en
+a pas un  qui pense qu’un homme  pèche  volontairement et fasse
+volontairement des actions honteuses et mauvaises ; ils savent tous au
+contraire que tous ceux qui font des actions honteuses et mauvaises les font
+involontairement, et Simonide ne dit pas qu’il loue l’homme qui ne commet
+pas volontairement le mal ; mais c’est à lui-même qu’il rapporte le mot
+volontairement ; car il pensait qu’un homme de bien se force souvent à
+témoigner à autrui de l’amitié et de l’estime. Par exemple, on est parfois en
+butte à d’étranges procédés de la part d’une mère, d’un père, de sa patrie,
+d’autres hommes qui nous touchent aussi de près. En ce cas, les méchants
+regardent la malignité de leurs parents ou de leur patrie avec une sorte de
+joie, l’étalent avec malveillance ou en font des plaintes, afin de se mettre à
+couvert des reproches et des outrages que mérite leur négligence ; ils en
+arrivent ainsi à exagérer leurs sujets de plainte, et à grossir de haines
+volontaires leurs inimitiés forcées. Les gens de bien au contraire jettent un
+voile sur les torts des leurs et se forcent à en dire du bien ; et si l’injustice de
+leurs parents ou de leur patrie suscite en eux quelque accès de colère, ils
+s’apaisent eux-mêmes et se réconcilient avec eux, en se contraignant à les
+aimer et à en dire du bien.
+   Plus d’une fois sans doute Simonide s’est rendu compte qu’il avait lui-
+même  fait l’éloge ou le panégyrique d’un tyran ou de quelque autre
+                                                          64
+personnage semblable, non point de son plein gré, mais par contrainte .
+Voici donc le langage qu’il tient à Pittacos :
+   Pour moi, Pittacos, si je te critique, ce n’est pas que j’aime la chicane ;
+car
+   « Il me suffit qu’un homme ne soit pas méchant, ni trop lâche, qu’il
+connaisse la justice, sauvegarde des États, et qu’il soit sensé. Pour un tel
+homme, je n’aurai point de blâme, car je n’aime pas à blâmer ; la race des
+sots est en effet innombrable » ; tellement que, si l’on prend plaisir à les
+reprendre, on trouve à critiquer à satiété.
+   « Il faut tenir pour honnête tout acte qui n’est point entaché de honte. »
+   Quand il parle ainsi, ce n’est pas comme s’il disait : Il faut regarder
+comme blanc tout ce qui est sans mélange de noir ; car cela serait ridicule à
+plus d’un égard ; il veut dire qu’il se contente d’un juste milieu pour faire
+taire sa critique, « et je ne cherche pas, dit-il, un homme tout à fait sans
+reproche parmi nous qui cueillons les fruits de la vaste terre ; mais si je le
+trouve, je viendrai vous le dire. » Aussi, à ce titre, je n’aurai personne à
+louer ; mais je me contente d’un homme moyen, qui ne fait rien de mal ; car
+j’aime et je loue tout homme, – et il se sert ici du dialecte de Mytilène, parce
+                 65
+qu’il parle à Pittacos , – je loue et j’aime volontairement (il faut séparer
+volontairement de ce qui suit par une pause dans la prononciation) tout
+homme qui ne fait rien de honteux ; tandis que c’est malgré moi que je loue
+et que j’aime certaines personnes. Si donc toi, Pittacos, tu avais dit des choses
+d’une justesse et d’une vérité moyennes, jamais je ne t’aurais repris ; mais tu
+avances au contraire de graves erreurs sur des questions capitales, et tu
+t’imagines que tu dis la vérité : c’est pour cela que je te reprends.
+   Voilà, selon moi, Prodicos et Protagoras, quel a été le dessein de
+Simonide, quand il a composé ce poème. »
+XXXII.
+
+   — Là-dessus, Hippias dit : « Il me paraît, Socrate, que toi aussi, tu as fort
+bien interprété le poète ; mais moi aussi, je puis en donner une bonne
+explication, et je vais, si vous voulez, vous la soumettre. »
+   Alors Alcibiade : « Nous voulons bien, Hippias, ditil, mais une autre
+fois ; pour le moment, il est juste que Protagoras et Socrate tiennent le traité
+qu’ils ont fait, et que Protagoras, s’il le veut, interroge et que Socrate
+réponde, ou, s’il préfère donner la réplique, que Socrate fasse les questions.
+   — Pour moi, dis-je, je m’en remets à Protagoras ; qu’il prenne le rôle qui
+lui plaira davantage ; mais, s’il m’en croit, nous laisserons là les poèmes et
+les vers, et nous reprendrons le sujet sur lequel je t’ai questionné d’abord,
+Protagoras : j’aurais plaisir à mener cette recherche à bonne fin, en
+l’approfondissant avec toi. À mon avis, ces conversations sur la poésie
+ressemblent fort aux banquets des gens médiocres et communs. Incapables, à
+cause de leur ignorance, de faire les frais de la conversation d’un banquet
+avec leur propre voix et leurs propres discours, ils font renchérir les joueuses
+de flûte en louant bien cher une voix étrangère, la voix des flûtes, et c’est par
+la voix des flûtes qu’ils conversent ensemble ; mais dans les banquets de gens
+distingués et cultivés, on ne voit ni joueuses de flûte, ni danseuses, ni
+joueuses de luth ; les convives, ayant assez de ressources en eux-mêmes pour
+s’entretenir ensemble sans ces bagatelles et ces amusements avec leur propre
+voix, parlent et écoutent tour à tour dans un ordre réglé, lors même qu’ils ont
+pris beaucoup de vin. Pareillement les assemblées comme celles-ci, quand
+elles sont formées de gens tels que la plupart d’entre nous se piquent d’être,
+n’ont besoin ni de voix étrangères, ni de poètes qu’il est impossible de
+questionner sur ce qu’ils ont voulu dire et auxquels la plupart des
+interlocuteurs prêtent, en les citant, les uns, telle pensée, les autres telle autre,
+sans pouvoir emporter la conviction sur le point discuté ; mais les habiles
+gens renoncent à ces conversations et s’entretiennent eux-mêmes les uns avec
+les autres avec leurs propres moyens, prenant et donnant mutuellement la
+mesure de leur sagesse dans leurs propres discours. Voilà, selon moi, les gens
+que toi et moi, nous devons imiter de préférence ; laissons donc les poètes et
+entretenons-nous ensemble avec nos propres moyens, mettant à l’épreuve la
+vérité et nous-mêmes. Si tu veux continuer à interroger, je suis à ta
+disposition pour donner la réplique ; sinon, mets-toi à la mienne pour mener à
+bonne fin la discussion que nous avons laissée interrompue. »
+   Malgré ces paroles et d’autres du même genre, Protagoras ne s’expliquait
+point sur ce qu’il entendait dire. Alors Alcibiade, se tournant vers Callias, lui
+dit : « Trouves-tu encore à présent, Callias, que Protagoras fait bien de ne pas
+vouloir déclarer s’il donnera, oui ou non, la réplique ? Moi, non. Qu’il se
+prête à la discussion et qu’il avoue qu’il s’y refuse, afin que nous sachions à
+quoi nous en tenir sur son compte, et que Socrate discute avec quelque autre,
+ou tel autre qui voudra avec un autre partenaire. »
+   Alors Protagoras gêné, à ce qu’il m’a semblé, des paroles d’Alcibiade et
+des prières de Callias et de presque toute la compagnie, se décida, non sans
+peine, à renouer la discussion, et me dit de l’interroger, qu’il me répondrait.
+XXXIII.
+
+   — Je lui dis alors : « Ne crois pas, Protagoras, qu’en discutant avec toi,
+j’aie d’autre but que d’approfondir les questions qui m’embarrassent à
+l’occasion ; car je suis persuadé qu’Homère a eu grand raison de dire :
+                                                      66
+   « Quand deux hommes vont ensemble, l’un remarque avant l’autre … »
+   Car en nous associant, nous autres hommes, nous trouvons tous, en toute
+occasion, plus de ressources pour agir, parler et penser ; « si un seul fait une
+observation », aussitôt il s’en va partout, cherchant à qui en faire part et par
+qui la confirmer, jusqu’à ce qu’il le rencontre. C’est pour cela que moi-même
+j’ai plaisir à m’entretenir avec toi, plutôt qu’avec tout autre, persuadé que je
+suis que tu es sans égal pour approfondir toutes les questions qu’un honnête
+homme doit examiner, et en particulier celle de la vertu. Et quel autre que toi
+pourrais-je consulter ? Tu ne prétends pas seulement être toi-même homme
+de bien, comme certains autres qui sont vertueux pour leur compte, mais
+incapables de rendre vertueux les autres ; toi, tu es vertueux pour ton compte
+et tu es capable aussi de rendre les autres vertueux, et tu as une telle
+confiance en toi qu’au rebours des autres, qui déguisent leur profession, tu as
+ouvertement proclamé par toute la Grèce ce que tu es, que tu as revendiqué le
+nom de sophiste, que tu t’es donné pour un maître d’éducation et de vertu, et
+que, le premier, tu as cru devoir mettre un prix à tes leçons. Comment donc
+pourrait-on se dispenser de t’appeler à l’examen de ces questions, de
+t’interroger, de conférer avec toi ? Il n’y a pas moyen de ne pas le faire.
+   Aussi dans la question qui nous occupe à présent et sur laquelle je t’ai
+consulté d’abord, je voudrais que, reprenant les choses au début, tu rappelles
+les unes et approfondisses les autres avec moi. La question, si je ne me
+trompe, était celle-ci : La science, la tempérance, le courage, la justice et la
+sainteté sont-elles cinq noms appliqués à un seul objet, ou chacun de ces
+noms recèle-t-il une essence propre, une chose qui ait sa propriété
+particulière, une chose distincte et différente des autres ? Tu soutenais que ce
+n’étaient pas les noms d’un seul objet, mais que chacun de ces noms se
+rapportait à un objet propre, qu’ils désignaient autant de parties de la vertu,
+non point telles que les parties de l’or, qui sont semblables entre elles et au
+tout dont elles sont parties, mais telles que les parties du visage, qui diffèrent
+du tout dont elles sont parties et les unes des autres, et qui ont chacune leur
+propriété particulière. Si tu es toujours dans le même sentiment, dis-le ; si tu
+en as changé, explique-moi en quoi ; je ne te tiendrai pas rigueur, si tu penses
+un peu différemment maintenant ; car je ne serais pas étonné que tu n’aies
+parlé tantôt que pour m’éprouver.
+XXXIV.
+
+   — Eh bien ! je te réponds, Socrate, dit-il, que toutes ces qualités sont des
+parties de la vertu et que quatre d’entre elles se ressemblent assez, mais que
+le courage est tout à fait différent des quatre autres, et voici par où tu
+reconnaîtras que je dis vrai : c’est que tu trouveras quantité de gens qui sont
+très injustes, très impies, très débauchés et très ignorants, et qui néanmoins
+sont remarquablement courageux.
+   — Halte-là, lui dis-je ; il vaut la peine d’examiner ce que tu avances.
+Qu’entends-tu par hommes courageux ? Des hommes hardis ou autre chose ?
+   — Des hommes hardis, répondit-il, et qui vont résolument où le grand
+nombre craint d’aller.
+   —  Mais voyons, considères-tu la vertu comme une belle chose, et,
+puisque tu fais profession de l’enseigner, l’enseignes-tu comme une belle
+chose ?
+   — Comme  une très belle chose, répliqua-t-il ; autrement j’aurais perdu
+l’esprit.
+   — Mais, repris-je, est-elle en partie laide, en partie belle, ou tout entière
+belle ?
+   — Elle est tout entière aussi belle que possible.
+   — Sais-tu qui sont ceux qui plongent hardiment dans les puits ?
+   — Oui, les plongeurs.
+   — Est-ce parce qu’ils savent plonger ou pour une autre raison ?
+   — C’est parce qu’ils savent plonger.
+   — Et qui sont ceux qui combattent hardiment à cheval ? sont-ce ceux qui
+savent ou ceux qui ne savent pas monter ?
+   — Ceux qui savent monter.
+   — Qui sont ceux qui portent hardiment le bouclier échancré ? ceux qui
+ont appris le métier de peltaste ou ceux qui ne l’ont pas appris ?
+   — Ceux qui l’ont appris ; et pour tout le reste aussi, ajouta-t-il, si c’est là
+ce que tu cherches, ceux qui savent sont plus hardis que ceux qui ne savent
+pas, et ils sont eux-mêmes plus hardis après avoir appris qu’ils ne l’étaient
+avant d’avoir appris.
+   — Mais as-tu déjà vu, repris-je, des gens qui, sans être instruits de toutes
+ces choses, s’attaquent hardiment à chacune d’elles ?
+   — Oui, répliqua-t-il, et très hardiment.
+   — Est-ce que ces hommes hardis sont aussi courageux ?
+   — Ce serait alors, dit-il, une laide chose que le courage ; car ce sont là
+des fous.
+   — Comment, dis-je, as-tu donc défini les hommes courageux ? N’as-tu
+pas dit qu’ils étaient hardis ?
+   — Je le dis encore, répondit-il.
+   —  Alors, repris-je, ceux qui sont hardis, quoique ignorants, ne sont
+évidemment pas courageux, mais fous ; et ceux dont nous avons parlé tout à
+                                                   67
+l’heure, ceux qui sont les plus instruits, sont aussi les plus hardis  et par là
+même les plus courageux, et, suivant ce raisonnement, la sagesse serait la
+même chose que le courage.
+   — Socrate, reprit Protagoras, tu ne te souviens pas bien de ce que j’ai dit
+en répondant à tes questions. Tu m’as demandé si les gens courageux étaient
+hardis ; j’ai dit que oui ; mais tu ne m’as pas demandé si les gens hardis
+étaient courageux ; car, si tu me l’avais demandé, j’aurais répondu qu’ils ne
+le sont pas tous. Quant à mon principe que les hommes courageux sont
+hardis, tu n’as nullement démontré que j’ai eu tort de l’admettre. Ensuite tu as
+fait voir que ceux qui savent deviennent plus hardis qu’ils n’étaient et qu’ils
+le sont plus que ceux qui ne savent pas, et c’est là-dessus que tu te fondes
+pour identifier le courage et la science. À ce compte, tu pourrais tout aussi
+bien identifier la force et la science ; tout d’abord, suivant cette marche, tu
+                                              68
+pourrais me demander si les hommes vigoureux sont forts  ; je dirais oui ;
+ensuite si ceux qui savent lutter sont plus forts que ceux qui ne savent pas, et
+plus forts après avoir appris qu’avant ; je dirais oui ; ces choses une fois
+accordées, tu pourrais, suivant la même méthode d’argumentation, affirmer
+que de mon aveu la science se confond avec la vigueur. Mais moi, je n’ai
+jamais accordé et je n’accorde point que les forts soient vigoureux, bien que
+je reconnaisse que les hommes vigoureux sont forts ; car la force et la vigueur
+ne sont pas la même chose, l’une, la force, venant de la science, de la fureur
+et de la colère ; la vigueur, au contraire, venant de la nature et de la bonne
+nourriture du corps. C’est ainsi que tout à l’heure j’ai pu dire que la hardiesse
+et le courage ne sont pas la même chose, et la conclusion qui s’impose, c’est
+que les hommes courageux sont hardis, mais que les hommes hardis ne sont
+pas tous courageux ; car la hardiesse vient aux hommes de l’art, de la colère
+et de la fureur, comme la force ; mais le courage vient de la nature et de la
+bonne nourriture de l’âme.
+XXXV.
+
+   — Conviens-tu, Protagoras, lui dis-je, que, parmi les hommes, les uns
+vivent bien, les autres mal ?
+   — Oui.
+   — Trouves-tu qu’un homme vit bien, quand il vit dans le chagrin et la
+souffrance ?
+   — Non.
+   — Mais s’il avait mené une vie agréable jusqu’à sa mort, ne trouverais-tu
+pas qu’il aurait bien vécu ?
+   — Si, dit-il.
+   — Alors mener une vie agréable est un bien, une vie désagréable, un
+mal ?
+   — À condition, répondit-il, de chercher l’agrément dans l’honnêteté.
+   — Quoi donc ! Protagoras, partages-tu l’opinion commune, et considères-
+tu certaines choses agréables comme mauvaises, certaines choses
+désagréables comme bonnes ? Je veux dire : en tant qu’agréables, les choses
+agréables ne sont-elles pas bonnes, abstraction faite de toute conséquence, et
+pareillement les choses désagréables, en tant que désagréables, ne sont-elles
+pas mauvaises ?
+   — Je me demande, Socrate, dit-il, si je dois répondre à ta question aussi
+simplement que tu la poses, que les choses agréables sont toujours bonnes, et
+les choses désagréables mauvaises. Il me semble plus sûr, non seulement
+pour le cas présent, mais pour tous les cas que la vie peut m’offrir encore, de
+répondre que, parmi les choses agréables, il y en a qui ne sont pas bonnes,
+que pareillement, parmi les choses désagréables, il y en a qui ne sont pas
+mauvaises et d’autres qui le sont, et enfin qu’il y a une troisième espèce de
+choses, les choses indifférentes, qui ne sont ni bonnes, ni mauvaises.
+   — Mais à tes yeux, repris-je, les choses agréables ne sont-elles pas celles
+qui sont jointes au plaisir ou qui le produisent ?
+   — Sans doute, répondit-il.
+   — Or quand je demande si, en tant qu’agréables, les choses ne sont pas
+bonnes, c’est comme si je demandais si le plaisir en soi n’est pas bon.
+   — Comme tu le dis toujours, Socrate, répondit-il, examinons la question,
+et si le résultat de notre examen s’accorde avec la raison, et que l’agréable et
+le bon nous paraissent identiques, nous en tomberons d’accord ; sinon, nous
+poursuivrons la discussion.
+   — Veux-tu, lui dis-je, conduire notre recherche ou dois-je la diriger moi-
+même ?
+   — Il est juste que tu la diriges, puisque c’est toi qui as provoqué la
+discussion.
+   — Voici peut-être, dis-je, un moyen d’éclairer le sujet. Supposons qu’on
+examine un homme sur son extérieur pour juger de sa santé ou de ses facultés
+physiques ; après avoir vu le visage et les mains, on lui dirait : Allons,
+déshabille-toi et découvre-moi ta poitrine et ton dos, pour que je voie plus
+clairement ce qui en est. C’est une méthode semblable que je voudrais suivre
+dans cette recherche. Maintenant que je connais, d’après ce que tu as dit, ta
+manière de voir sur le bien et l’agréable, voici la demande que je voudrais te
+faire : Allons, Protagoras, découvre-moi un autre coin de ta pensée : quelle
+opinion as-tu de la science ? En juges-tu ici encore comme le peuple, ou
+autrement ? Or voici à peu près l’idée qu’il se forme de la science. Il se figure
+qu’elle n’est ni forte, ni capable de guider et de commander ; au lieu de lui
+reconnaître ces qualités, il est persuadé que souvent la science a beau se
+trouver dans un homme, ce n’est point elle qui le gouverne, mais quelque
+autre chose, tantôt la colère, tantôt le plaisir, tantôt la douleur, quelquefois
+l’amour, souvent la crainte. Il regarde tout bonnement la science comme une
+esclave que toutes les autres choses traînent à leur suite. T’en fais-tu la même
+idée, ou juges-tu qu’elle est une belle chose, capable de commander à
+l’homme, que lorsqu’un homme a la connaissance du bien et du mal, rien ne
+peut le vaincre et le forcer à faire autre chose que ce que la science lui
+ordonne, et que l’intelligence est pour l’homme une ressource qui suffit à
+tout ?
+   — Je pense de la science tout ce que tu en dis, Socrate, répondit-il, et il
+serait honteux à moi plus qu’à tout autre de ne pas reconnaître que la sagesse
+et la science sont ce qu’il y a de plus fort parmi toutes les choses humaines.
+   — Ta réponse est belle et juste, lui dis-je ; mais tu n’ignores pas que la
+plupart des hommes ne sont ni de ton avis, ni du mien, et qu’ils prétendent
+qu’on a souvent beau connaître ce qui est le meilleur, on ne veut pas le faire,
+bien qu’on le puisse, et on fait tout autre chose. Tous ceux à qui j’ai demandé
+la cause d’une telle conduite répondent que ce qui fait qu’on agit de la sorte,
+c’est qu’on cède au plaisir ou à la douleur ou à quelqu’une des passions dont
+je parlais tout à l’heure, et qu’on se laisse vaincre par elles.
+   — Vraiment, Socrate, dit-il, il y a bien d’autres choses sur lesquelles les
+hommes n’ont pas des idées justes.
+   — Eh bien ! essaye avec moi de les détromper et de leur apprendre ce
+qu’est réellement ce phénomène qui consiste pour eux à être vaincus par le
+plaisir et par suite à ne pas faire ce qui est le meilleur, bien qu’ils le
+connaissent. Peut-être que, si nous leur disions : Ô hommes, vous êtes à côté
+de la vérité, vous vous abusez, ils nous demanderaient : Protagoras et Socrate,
+si ce n’est point là être vaincu par le plaisir, qu’est-ce donc alors, et quelle est
+votre opinion là-dessus ? dites-la nous.
+   — Quoi ! Socrate, faut-il nous arrêter à examiner l’opinion de la foule,
+qui dit sans réflexion ce qui lui vient à l’esprit ?
+   — Je pense, repris-je, que cela n’est pas sans importance pour découvrir
+le rapport du courage aux autres parties de la vertu. Si donc tu crois devoir
+t’en tenir à ce dont nous sommes convenus tout à l’heure et te laisser guider
+dans la voie qui me paraît la meilleure pour arriver à la lumière, suis-moi ;
+autrement, si tel est ton plaisir, j’en resterai là.
+   — Tu as raison, dit-il, achève comme tu as commencé.
+XXXVI.
+
+   —  Si donc, dis-je, reprenant leur question, ils nous demandaient :
+Qu’entendez-vous donc par ce que nous avons appelé jusqu’ici être vaincu
+par le plaisir ? voici comment je leur répondrais : Écoutez, nous allons tâcher,
+Protagoras et moi, de vous l’expliquer. N’est-il pas vrai, mes amis, que cela
+vous arrive dans les cas suivants, par exemple dans le cas fréquent où vous
+vous laissez vaincre par le manger, le boire, l’amour, qui sont choses
+agréables ? Vous avez beau connaître que ces choses sont mauvaises, vous
+les faites quand même.
+   Ils en conviendraient.
+   Nous leur demanderions ensuite, toi et moi : Pourquoi tenez-vous ces
+choses pour mauvaises ? Estce parce qu’elles vous procurent ce plaisir du
+moment présent et parce que chacune d’elles est agréable, ou parce qu’elles
+ont pour suite dans l’avenir la maladie et la pauvreté et qu’elles causent
+beaucoup d’autres maux du même genre ? Si elles n’occasionnaient pour
+l’avenir aucun de ces maux et n’engendraient que du plaisir, quoi qu’on
+puisse penser de la cause et de la manière, seraient-elles encore mauvaises ?
+Pouvons-nous penser, Protagoras, qu’ils nous feraient une autre réponse que
+celle-ci :
+   Ce n’est pas à cause du plaisir même qu’elles procurent sur le moment
+qu’elles sont mauvaises, c’est à cause de leurs suites, maladies et autres
+maux ?
+   — C’est vraisemblablement, dit Protagoras, ce que répondrait la foule.
+   —  Mais en causant des maladies, elles causent de la douleur, et en
+amenant la pauvreté, elles amènent du chagrin.
+   Ils en conviendraient, je crois.
+   Protagoras acquiesça.
+   — Il vous paraît donc, mes amis, comme nous le soutenons, Protagoras et
+moi, que ces choses ne sont mauvaises que parce qu’elles aboutissent à la
+douleur et vous privent d’autres plaisirs ? En conviendraient-ils ?
+   Ce fut notre avis à tous deux.
+   — Mais si, prenant la contrepartie, nous leur disions : En reconnaissant,
+amis, que certaines choses bonnes sont douloureuses, n’entendez-vous pas
+par là des choses comme les exercices physiques, les expéditions guerrières,
+les traitements médicaux par cautérisation, amputation, médication,
+abstinence ; n’est-ce pas cela que vous appelez bon et en même temps
+douloureux ?
+   Ils en conviendraient.
+   Protagoras fut de cet avis.
+   — Les appelez-vous bonnes parce qu’elles causent sur le moment des
+douleurs et des peines d’une extrême acuité, ou parce qu’elles sont pour
+l’avenir la source de la santé, du bien-être physique, du salut des États, de la
+domination sur les autres et de la richesse ?
+   Ils diraient oui, je pense.
+   Protagoras fut de mon avis.
+   — Mais ces choses sont-elles bonnes pour une autre raison que parce
+qu’elles se terminent au plaisir et délivrent ou préservent de la douleur, ou
+avez-vous en vue quelque autre fin que le plaisir et la douleur pour les
+appeler bonnes ?
+   Ils répondraient non, n’est-ce pas ?
+   — C’est mon avis, dit Protagoras.
+   — Vous poursuivez donc le plaisir comme un bien, et vous fuyez la
+douleur comme un mal ?
+   Il en convient avec moi.
+   — C’est donc la douleur que vous regardez comme un mal, et le plaisir
+comme un bien, puisque le plaisir même est un mal à vos yeux, quand il vous
+prive de jouissances plus grandes qu’il n’en offre lui-même, ou occasionne
+des douleurs plus grandes que les jouissances qu’il contient ; car, si, pour
+appeler ainsi le plaisir même un mal, vous aviez quelque autre motif ou
+considériez quelque autre fin, vous sauriez nous le dire ; mais vous n’en
+trouverez point d’autre.
+   — Je ne le pense pas non plus, dit Protagoras.
+   — Ne faut-il pas en dire autant de la douleur en elle-même ? N’appelez-
+vous pas la douleur même un bien, quand elle vous délivre de douleurs plus
+grandes que celles qu’elle cause ou qu’elle amène des plaisirs plus grands
+que les souffrances qu’elle suscite ? car, si vous songiez à quelque autre fin
+que celle dont je parle, quand vous appelez la douleur même un bien, vous
+sauriez bien nous le dire ; mais vous n’en trouverez pas d’autre.
+   — Cela est vrai, dit Protagoras.
+   — Que si de votre côté, ajoutai-je, vous me demandiez, amis, pourquoi je
+traite la question si longuement et sous autant de formes : Pardonnez-moi,
+vous dirai-je ; car tout d’abord ce n’est pas une chose aisée de montrer en
+quoi consiste ce que vous appelez être vaincu par le plaisir ; ensuite c’est sur
+ce point que roule toute ma démonstration ; mais il est encore temps de vous
+rétracter, si vous avez quelque raison de croire que le bien est autre chose que
+le plaisir et le mal autre chose que la douleur. Vous suffit-il au contraire de
+passer toute votre vie agréablement et sans chagrin ? Si cela vous suffit et si
+vous n’avez pas d’autre définition à donner du bien et du mal que celle qui
+les ramène au plaisir et à la douleur, écoutez la suite. En m’appuyant sur cette
+définition, je soutiens qu’il est ridicule de dire, comme vous le faites, que
+souvent un homme qui connaît le mal pour ce qu’il est, ne laisse pas de le
+commettre, bien qu’il ait la liberté d’agir autrement, parce qu’il est entraîné et
+subjugué par le plaisir, et pareillement qu’un homme qui connaît le bien se
+refuse à le faire, parce qu’il est vaincu par le plaisir du moment.
+XXXVII.
+
+   — Le ridicule de ces assertions apparaîtra, si nous cessons d’employer
+plusieurs termes à la fois, l’agréable et le désagréable, le bien et le mal.
+Puisque nous avons fait voir que ces choses se ramènent à deux, servons-nous
+aussi de deux termes pour les désigner : appelons-les d’abord le bien et le
+mal ; nous les appellerons ensuite l’agréable et le désagréable. Cela posé,
+disons qu’un homme connaissant que le mal est le mal ne laisse pas de le
+faire. Si quelqu’un nous demande pourquoi : Parce qu’il est vaincu, dirons-
+nous. Par quoi ? demandera-t-il. Nous ne pouvons plus répondre : par le
+plaisir ; car nous avons donné au plaisir un autre nom, celui de bien. Nous
+répondrons donc en disant qu’il est vaincu. – Vaincu par quoi ? dira-t-il. –
+Par le bien. Telle sera, par Zeus, notre réponse. Si notre questionneur aime la
+moquerie, il nous rira au nez et dira : Il y a de quoi rire à vous entendre
+affirmer que, lorsqu’un homme fait le mal, quoiqu’il sache que c’est le mal et
+puisse s’empêcher de le faire, il est vaincu par le bien. Est-ce qu’à vos yeux
+le bien n’a pas assez de valeur pour vaincre le mal ou en a-t-il assez ? – Nous
+répondrons évidemment : Il n’en a pas assez ; autrement celui que nous
+disons être vaincu par le plaisir n’aurait pas commis de faute. Mais qu’estce
+qui fait, dira-t-il, que les biens n’ont pas assez de valeur pour l’emporter sur
+les maux, ou les maux sur les biens ? N’est-ce pas que les uns sont plus
+grands et les autres plus petits, ou les uns plus nombreux et les autres moins
+nombreux ? Nous ne trouverons pas d’autre raison que celle-là. Il est donc
+évident, dira-t-il, que ce que vous appelez être vaincu, c’est choisir des maux
+plus grands à la place de bien plus petits. Voilà un point acquis.
+   Changeons maintenant les termes, et, appliquant aux mêmes choses ceux
+d’agréable et de désagréable, disons : L’homme fait – nous disions tout à
+l’heure : le mal – disons maintenant : des choses désagréables, sachant
+qu’elles sont désagréables, parce qu’il est vaincu par les choses agréables, qui
+évidemment n’ont pas assez de valeur pour vaincre. Et quelle autre
+disproportion de valeur y a-t-il entre les plaisirs et les douleurs, sinon l’excès
+et le défaut des uns par rapport aux autres, les uns étant plus grands ou plus
+petits, plus nombreux ou moins nombreux, plus forts ou plus faibles que les
+autres ? Si l’on objecte : Mais, Socrate, le plaisir présent diffère grandement
+du plaisir ou de la douleur à venir.
+   — Diffèrent-ils, répondrai-je, par autre chose que le plaisir et la douleur ?
+                                69
+Ils ne peuvent en effet différer que par là . Dès lors, comme un homme qui
+s’entend à peser, mets d’un côté de la balance les choses agréables, de l’autre,
+les choses désagréables, ajoutes-y d’un côté les choses qui sont proches, de
+l’autre les choses qui sont éloignées, et vois de quel côté est l’avantage ; si en
+effet tu pèses des choses agréables avec des choses agréables, il faut toujours
+choisir les plus grandes et les plus nombreuses ; si tu pèses des choses
+désagréables avec des choses désagréables, il faut prendre les moins
+nombreuses et les plus petites ; si tu pèses des choses agréables avec des
+choses désagréables et que les plaisirs l’emportent sur les douleurs, les choses
+éloignées sur les choses prochaines ou les choses prochaines sur les choses
+éloignées, il faut faire l’action où l’on voit cet avantage ; si au contraire les
+douleurs l’emportent sur les plaisirs, il faut s’abstenir ; y a-t-il en cela, mes
+amis, dirais-je, un autre parti à prendre ? Je suis persuadé qu’ils ne sauraient
+en trouver d’autre.
+   Protagoras en jugea de même.
+   — Si donc il en est ainsi, je vous prierai de répondre à la question que
+voici : Les mêmes objets ne paraissent-ils pas à vos yeux plus grands, de
+près, plus petits, de loin ?
+   — Sans doute, diront-ils.
+   — N’en est-il pas de même pour la grosseur et pour le nombre ? et des
+sons égaux ne sont-ils pas plus forts, entendus de près, plus faibles, entendus
+de loin ?
+   — Ils en conviendraient.
+   — Si donc notre bonheur consistait à faire et à choisir ce qui est grand, à
+éviter et à ne pas faire ce qui est petit, où trouverions-nous le salut de notre
+vie ? dans l’art de mesurer ou dans la faculté de saisir les apparences ?
+N’avons-nous pas vu que celle-ci nous trompait, nous faisait souvent
+interpréter les mêmes choses de cent façons, et regretter nos actes et nos
+choix, relativement à la grandeur et à la petitesse, tandis que l’art de mesurer
+aurait enlevé toute autorité à cette illusion et, nous révélant la vérité, aurait
+assuré à notre âme une tranquillité fondée sur le vrai et sauvé ainsi le bonheur
+de notre vie ? Nos gens reconnaîtraient-ils là que notre salut dépend de l’art
+de mesurer et non d’un autre ?
+   — De l’art de mesurer, convint Protagoras.
+   — Mais si notre salut dépendait du choix de l’impair ou du pair, et qu’il
+nous fallût choisir sans nous tromper le plus ou le moins, en les comparant
+chacun avec lui-même ou l’un avec l’autre, soit qu’ils fussent proches, soit
+qu’ils fussent éloignés, qu’est-ce qui pourrait assurer notre salut ? Ne serait-
+ce pas une science ? ne serait-ce pas une science des mesures, puisqu’il s’agit
+ici de l’art de mesurer l’excès et le défaut des choses ? et comme cet art
+s’applique ici à l’impair et au pair, est-il autre que l’arithmétique ? Nos gens
+nous l’accorderaient-ils, oui ou non ?
+   Protagoras lui-même fut d’avis qu’ils nous l’accorderaient.
+   — Voilà qui est bien, mes amis. Mais puisqu’il nous a paru que le salut
+de notre vie dépend du juste choix des plaisirs et des douleurs, selon qu’ils
+sont plus nombreux ou moins nombreux, plus grands ou plus petits, plus
+éloignés ou plus rapprochés, n’est-il pas tout d’abord évident que l’examen
+de l’excès, du défaut et de l’égalité des uns par rapport aux autres suppose
+une méthode de mensuration ?
+   — Absolument évident.
+   — Si c’est une méthode de mensuration, il faut à coup sûr que ce soit un
+art et une science.
+   — Ils l’admettront.
+   — Ce qu’est cet art et cette science, nous l’examinerons une autre fois ; il
+nous suffit que ce soit une science pour la démonstration que Protagoras et
+moi devons vous faire sur la question que vous nous avez posée.
+   Rappelez-vous quelle était votre question. Nous venions de convenir,
+Protagoras et moi, qu’il n’y a rien de plus fort que la science et que, partout
+où elle se trouve, elle a toujours l’avantage sur le plaisir et sur toutes les
+autres passions ; alors vous, vous avez soutenu que le plaisir triomphe
+souvent même de l’homme qui a la science, et comme nous n’avons pas
+voulu vous accorder ce point, vous nous avez demandé : Protagoras et
+Socrate, si ce n’est pas là être vaincu par le plaisir, qu’est-ce alors et
+comment qualifiez-vous cela ? dites-le-nous. Si nous vous avions répondu
+tout de suite que c’est de l’ignorance, vous vous seriez moqués de nous,
+tandis qu’à présent, si vous vous moquez de nous, vous vous moquerez aussi
+de vous-mêmes ; car vous avez reconnu que, quand on pèche, on pèche faute
+de science dans le choix des plaisirs et des peines, c’est-à-dire des biens et
+des maux, et non faute de science simplement, mais faute de cette science que
+vous avez reconnue tout à l’heure être la science des mesures. Or, toute
+action fautive par défaut de science, vous le savez bien, est commise par
+ignorance, en sorte qu’être vaincu par le plaisir, c’est la pire des ignorances.
+Cette ignorance, Protagoras que voici, Prodicos et Hippias font profession de
+la guérir ; mais vous, qui croyez que c’est tout autre chose que l’ignorance,
+vous ne venez pas vous-mêmes et vous n’envoyez pas vos enfants chez les
+maîtres de vertu, je veux dire les sophistes que voici, parce que vous êtes
+persuadés que la vertu ne peut être enseignée ; vous préférez ménager votre
+argent et en refusant de le leur donner, vous faites mal vos affaires publiques
+et privées.
+XXXVIII.
+
+   — Voilà ce que nous aurions répondu au peuple ; et à présent, avec
+Protagoras, je vous le demande à vous, Hippias et Prodicos, afin que vous
+preniez part au débat, trouvez-vous que ce que j’ai dit est vrai ou faux ?
+   Ils furent tous d’avis que ce que j’avais dit était d’une merveilleuse vérité.
+   — Alors, vous reconnaissez, dis-je, que l’agréable est bon, le désagréable
+mauvais. Quant aux distinctions que Prodicos établit entre les mots, je le prie
+de s’en abstenir ; que tu appelles ce bien agréable, charmant, réjouissant, ou
+de tout autre nom qu’il te plaira, excellent Prodicos, réponds au sens de ma
+question.
+   Prodicos me donna son assentiment en riant, et les autres aussi.
+   — Et maintenant, mes amis, dis-je, que pensez-vous de ceci ? Est-ce que
+toutes les actions qui ont pour fin une vie agréable et sans chagrin ne sont pas
+belles, et toute œuvre belle n’est-elle pas bonne et utile ?
+   Ils furent de cet avis.
+   — Si donc, repris-je, l’agréable est le bon, il n’est personne qui, sachant
+ou croyant qu’il y a des choses meilleures à faire que celles qu’il fait, et qu’il
+est en son pouvoir de les faire, fasse cependant les moins bonnes, alors qu’il
+dépend de lui de faire les meilleures ; et être inférieur à soi-même n’est autre
+chose qu’ignorance, comme être supérieur à soi-même est sagesse.
+   Ils approuvèrent tous.
+   — Mais quoi ? qu’appelez-vous être ignorant ? n’est-ce pas avoir une
+opinion fausse et se tromper sur les choses de grande importance ?
+   Ils l’avouèrent également tous.
+   — N’est-il pas vrai, repris-je, que personne ne se porte volontairement au
+mal ou à ce qu’il prend pour le mal, qu’il ne paraît pas être dans la nature de
+l’homme de se résoudre à chercher ce qu’il croit mal plutôt que ce qui est
+bien, et que, quand on est forcé de choisir entre deux maux, il n’est personne
+qui choisisse le plus grand, s’il peut prendre le moindre ?
+   Sur tous ces points nous tombâmes d’accord.
+   — Mais voyons, dis-je, y a-t-il quelque chose que vous appelez crainte ou
+frayeur ? Entendez-vous par là la même chose que moi ? C’est à toi que je
+m’adresse, Prodicos. J’y vois l’attente d’un mal, qu’on appelle frayeur ou
+crainte.
+   Protagoras et Hippias convinrent que la crainte et la frayeur étaient bien
+cela ; Prodicos l’admit pour la crainte, mais le nia pour la frayeur.
+   — Il n’importe, Prodicos, dis-je, mais voici ce que je demande : si ce qui
+a été dit précédemment est vrai, se trouvera-t-il un homme qui veuille courir à
+ce qu’il craint, quand il peut aller au-devant de ce qu’il ne craint pas ? n’est-
+ce pas impossible d’après les principes que nous avons reconnus ? nous
+avons en effet reconnu que, si l’on craint une chose, c’est qu’on la croit
+mauvaise, et que, lorsqu’on croit une chose mauvaise, on ne s’y porte pas et
+on ne la choisit pas volontairement.
+   Tout le monde tomba d’accord là-dessus aussi.
+XXXIX.
+
+   — Je repris : « Ceci posé, il faut maintenant, Prodicos et Hippias, que
+Protagoras défende les réponses qu’il a faites d’abord et nous en prouve la
+justesse ; je ne parle pas de celles qu’il a faites tout à fait au début, quand il a
+soutenu que des cinq parties de la vertu il n’y en avait pas une qui fût
+semblable à l’autre et que chacune avait sa faculté propre ; ce n’est pas de
+cela que j’entends parler, mais de ce qu’il a dit ensuite, à savoir qu’il y avait
+quatre parties assez semblables entre elles, et une tout à fait différente des
+autres, le courage ; il a ajouté que je la reconnaîtrais à cette marque : Tu
+trouveras, en effet, Socrate, m’a-t-il dit, des hommes qui sont très impies, très
+injustes, très débauchés et très ignorants, mais très braves, et tu reconnaîtras
+par là que le courage est très différent des autres parties de la vertu. Tout
+d’abord j’ai été fort surpris de cette réponse ; je l’ai été davantage encore,
+après avoir discuté ces questions avec vous. Je lui ai alors demandé s’il
+croyait que les hommes courageux étaient hardis.
+   — Hardis et résolus, m’a-t-il répondu.
+   — Te souviens-tu, dis-je, Protagoras, de m’avoir fait cette réponse ?
+   Il en convint.
+   — Eh bien ! repris-je, dis-nous quelles sont, selon toi, les choses que les
+hommes courageux affrontent ? Sontce les mêmes choses qu’affrontent les
+lâches ?
+   — Non, répondit-il.
+   — Ce sont donc des choses différentes ?
+   — Oui, dit-il.
+   — Les lâches n’affrontent-ils pas des choses qui inspirent la confiance, et
+les courageux des choses qui inspirent la crainte ?
+   — C’est ce qu’on dit communément, Socrate.
+   — C’est vrai, répliquai-je ; mais ce n’est pas là ce que je te demande,
+c’est ton opinion à toi : quelles sont, selon toi, les choses que les hommes
+courageux affrontent ? affrontent-ils les choses qui inspirent la crainte, bien
+qu’ils les tiennent pour telles, ou celles qui ne l’inspirent pas ?
+   —  Mais, répondit-il, il vient d’être démontré dans ce que tu as dit
+qu’affronter ce qui inspire la crainte était impossible.
+   — Cela est encore vrai, dis-je, de sorte que, si la démonstration est juste,
+il n’y a personne qui affronte ce qu’il juge terrible, puisque nous avons vu
+qu’être inférieur à soi-même était ignorance.
+   Il en convint.
+   — Mais alors c’est aux choses qui inspirent la confiance que tout le
+monde se porte, les braves comme les lâches, et il s’ensuit que les braves et
+les lâches se portent aux mêmes choses.
+   — On voit pourtant tout le contraire, Socrate, répliqua-t-il : les lâches et
+les braves se portent à des choses tout à fait différentes ; ainsi, sans aller plus
+loin, les uns veulent aller à la guerre, les autres ne le veulent pas.
+   — Est-ce, repris-je, parce qu’aller à la guerre est une belle chose, ou une
+chose honteuse ?
+   — Parce que c’est une belle chose, répondit-il.
+   — Ne sommes-nous pas convenus précédemment que, si elle est belle,
+elle est bonne aussi ? Nous sommes convenus en effet que les belles actions
+sont toutes bonnes.
+   — C’est vrai, et je n’ai pas changé de sentiment.
+   — Fort bien, repartis-je. Mais quels sont ceux qui, selon toi, refusent
+d’aller à la guerre, quoiqu’elle soit une chose belle et bonne ?
+   — Les lâches, dit-il.
+   — Mais, repris-je, si elle est belle et bonne, n’est-elle pas agréable aussi ?
+   — C’est du moins une conséquence que nous avons admise, dit-il.
+   — Est-ce en connaissance de cause que les lâches refusent de se porter à
+ce qui est plus beau, meilleur et plus agréable ?
+   —  Avouer cela, dit-il, serait renverser les principes que nous avons
+reconnus plus haut.
+   — Mais le brave ne se porte-t-il pas vers le plus beau, le meilleur et le
+plus agréable ?
+   — Il faut en convenir, dit-il.
+   —  N’est-il pas vrai en général que les braves n’ont pas de craintes
+honteuses, quand ils ont des craintes, ni de hardiesses honteuses, quand ils
+sont hardis ?
+   — C’est vrai, dit-il.
+   — Mais si elles ne sont pas honteuses, ne sont-elles pas belles ?
+   Il en convint.
+   — Et, si elles sont belles, elles sont bonnes ?
+   — Oui.
+   — Donc et les lâches et les audacieux et les furieux ont au contraire des
+craintes honteuses et des hardiesses honteuses ?
+   Il en convint.
+   — Mais, s’ils ont des hardiesses honteuses et mauvaises, quelle en peut
+être la cause, sinon le défaut de connaissance et l’ignorance ?
+   — C’est vrai, dit-il.
+   — Mais quoi ! ce qui fait que les lâches sont lâches, l’appelles-tu lâcheté
+ou courage ?
+   — Moi, je l’appelle lâcheté, dit-il.
+   — N’est-ce point par l’ignorance des choses à craindre qu’ils nous ont
+paru lâches ?
+   — Si, dit-il.
+   — C’est donc à cause de cette ignorance qu’ils sont lâches ?
+   Il en demeura d’accord.
+   — Mais ce qui fait qu’ils sont lâches, tu reconnais que c’est la lâcheté ?
+   Il en convint.
+   — Ainsi l’ignorance des choses qui sont à craindre et des choses qui ne le
+sont pas serait la lâcheté ?
+   Il fit signe que oui.
+— Mais le courage, repris-je, est le contraire de la lâcheté ?
+— Oui.
+— La science des choses à craindre et de celles qui ne le sont pas n’est-elle
+pas le contraire de l’ignorance de ces mêmes choses ?
+   Ici encore il fit un signe d’assentiment.
+— Et l’ignorance de ces choses est la lâcheté ?
+   Ici, c’est à grand-peine qu’il fit signe que oui.
+— La science des choses à craindre et de celles qui ne le sont pas est donc le
+courage, qui est le contraire de l’ignorance de ces mêmes choses ?
+   Ici il ne voulut plus répondre ni par geste ni par mot.
+— Je lui dis alors : Hé quoi ! Protagoras, tu ne réponds ni oui ni non à mes
+questions.
+— Conclus toi-même, dit-il.
+— Je n’ai plus, dis-je, qu’une question à te poser : Crois-tu encore, comme tu
+le croyais d’abord, qu’il y a des hommes très ignorants qui cependant sont
+très braves.
+   Il répondit : Tu t’obstines, Socrate, ce me semble, à vouloir que ce soit
+moi qui réponde ; je te ferai donc ce plaisir, et je t’avoue que, d’après les
+principes dont nous sommes convenus, cela me paraît impossible.
+XL.
+
+   — Je t’affirme, dis-je, que je n’ai d’autre but en te faisant toutes ces
+questions que d’examiner les problèmes relatifs à la vertu et ce qu’est la vertu
+en elle-même. Car je suis persuadé que ce point éclairci jetterait une vive
+lumière sur l’objet de la longue discussion que nous venons d’avoir
+ensemble, moi prétendant que la vertu ne saurait être enseignée, toi, qu’elle
+peut l’être. Et il me semble que la conclusion dernière de notre discussion
+s’élève contre nous, comme une personne, et se moque de nous, et que, si elle
+pouvait parler, elle nous dirait : Vous êtes bien inconséquents, Socrate et
+Protagoras : toi qui soutenais d’abord que la vertu ne saurait s’enseigner, tu
+t’empresses maintenant de te contredire en t’évertuant à démontrer que tout
+est science, et la justice, et la tempérance, et le courage, d’où il résulterait que
+la vertu peut fort bien s’enseigner. Si, en effet, la vertu était autre chose que
+la science, comme Protagoras a tâché de le prouver, il est clair qu’elle ne
+saurait être enseignée. Si au contraire elle se ramène exactement à la science,
+comme tu as à cœur de le prouver, Socrate, il serait bien extraordinaire
+qu’elle ne pût être enseignée. De son côté Protagoras, après avoir admis
+d’abord qu’elle pouvait s’enseigner, semble à présent au contraire prendre à
+tâche de démontrer que la vertu est pour ainsi dire tout plutôt que science,
+d’où il suivrait qu’elle est rebelle à tout enseignement.
+   Pour moi, Protagoras, en voyant l’étrange confusion et le trouble qui
+règnent en ces matières, je souhaite vivement de voir ces questions éclaircies,
+et je voudrais qu’après les avoir débattues, nous pussions en venir à la nature
+de la vertu et examiner de nouveau si elle peut, oui ou non, être enseignée.
+Car j’ai peur que ton Épiméthée ne nous ait encore fallacieusement fait
+glisser en quelque faux pas dans notre recherche, comme il nous a oubliés,
+disais-tu, dans sa distribution. Aussi préféré-je dans la fable Prométhée à
+Épiméthée : c’est en prenant Prométhée pour modèle et en appliquant sa
+         70
+prévoyance  à ma vie tout entière que j’étudie toutes ces questions, et, si tu y
+consentais, je serais bien aise, comme je te l’ai dit d’abord, de les examiner
+avec toi.
+   Protagoras me répondit : « Je loue, Socrate, ton ardeur et ta manière de
+traiter les questions. Car, sans parler des autres défauts dont je me flatte
+d’être exempt, je suis le moins envieux des hommes. Aussi ai-je dit souvent
+de toi que, de tous ceux que je rencontre, tu es celui que j’estime le plus, et
+que je te mets bien au-dessus de ceux de ton âge, j’ajoute que je ne serais pas
+étonné si tu te plaçais un jour au rang des sages illustres. Quant à ces
+questions, nous les traiterons, si tu veux, une autre fois, pour le moment, j’ai
+autre chose de pressé à faire.
+   — Va donc, dis-je, si tel est ton plaisir, aussi bien il y a longtemps que,
+moi aussi, je devrais être rendu où j’avais dessein d’aller, mais je suis resté
+pour faire plaisir au beau Callias. »
+   Après avoir ainsi parlé et écouté tour à tour, nous nous séparâmes.
+    À propos de cette édition électronique
+
+    1. Élaboration de ce livre électronique :
+   Edition, corrections, conversion numérique et publication par le site :
+PhiloSophie
+   Responsable de publication : Pierre Hidalgo
+    2. Les formats disponibles
+— PDF (Adobe), sans doute le plus universel, lisible avec Adobe Reader et
+tous ses dérivés avec un très bon confort de lecture sur les ordinateurs
+pourvus d’un écran d’au moins 15 pouces. Pour un confort de lecture
+maximal, nous vous conseillons vivement l’affichage « Plein écran » dans
+Acrobat Reader (touche ctrl+L sur un PC), car nos ebooks sont prévus
+spécialement pour offrir un confort de lecture maximal dans cet affichage.
+— ePub, le nouveau format destiné aux liseuses de type Sony reader mais
+aussi aux téléphones portables de type iPhone ou Androïd, mais bien sûr
+également à l’Ipad d’Apple, via le logiciel Books. Le format ePub est un
+format d’avenir, parce que c’est un format libre, aux spécifications précises,
+qui offre des possibilités de mise en page sophistiquées.
+— Mobibook, format utilisé par le Kindle D’Amazon. Utilisable également
+sur les PDA Palm, PocketPC ou PC avec Mobipocket reader et sur la plupart
+des smartphones via le logiciel Kindle. Il est à noter que le Cybook de
+Bookeen utilise également ce format.
+   Bien que réalisés avec le plus grand soin, les livres numériques sont livrés
+tels quels sans garantie de leur intégrité parfaite par rapport à l’original. Si
+vous trouvez des erreurs, fautes de frappe, omissions ou autres, n’hésitez pas
+à me contacter.
+   3. Textes du domaine public
+   Ce texte est libre de droits ; vous pouvez donc l’utiliser sans contraintes, à
+une fin non commerciale et non professionnelle à condition de toujours
+indiquer la source. Par ailleurs, cette édition n’est pas libre. Toute diffusion
+autre que par les sites autorisés est interdite. Seuls les liens à partir d’autres
+sites sont autorisés, à condition d’indiquer clairement la provenance, c’est-à-
+dire le site PhiloSophie.
+                                  Notes
+
+[←1]
+        Sur ces quatre personnages voyez la Notice sur le Banquet.
+[←2]
+        Homère, Iliade, XXIV, 347 : « (Hermès) se mit en marche, semblable à un jeune prince,
+     dont la barbe commence à pousser, moment où la jeunesse a le plus de grâce. » Cf. aussi
+     Odyssée, X, 277.
+[←3]
+        Les Athéniens ne sortaient guère sans être accompagnés d’un esclave ou deux. Sans doute,
+     la scène se passe à la palestre ou à la « leschè », comme dans le Charmide.
+[←4]
+        Il y avait deux dèmes de ce nom, l’un au nord-ouest d’Athènes, du côté d’Éleuthères, sur la
+     route de Thèbes ; l’autre au nord-est, du côté de Marathon. C’est sans doute du premier qu’il
+     s’agit, parce que c’était le plus rapproché de la frontière.
+[←5]
+        Hippocrate, père de la médecine, florissait vers 430 av. J-C. Il appartenait à la famille des
+     Asclépiades, dans laquelle la prêtrise d’Asclépios et l’art de guérir étaient héréditaires.
+[←6]
+        Polycrète et Phidias sont les deux sculpteurs les plus célèbres de la Grèce, au Ve siècle. Le
+     premier, chef de l’école d’Argos, travaillait en bronze ; son chef-d’œuvre est le Doryphore,
+     représentation idéale de la beauté athlétique. Le second, choisi par Périclès, pour diriger les
+     travaux de sculpture du Parthénon, nous est surtout connu par les trois Athénas de l’Acropole
+     (Lemnia, Promachos, Parthénos) et par le Zeus d’Olympie. On a dit qu’il avait ajouté à la
+     religion, parce qu’il avait montré ce qu’étaient la beauté et la majesté des dieux. Cf. Lechat,
+     Phidias.
+[←7]
+        Périclès avait épousé une de ses parentes, dont il eut deux fils, Xanthippe et Paralos ; mais
+     elle avait d’abord été mariée à Hipponicos, dont elle avait eu Callias.
+[←8]
+        Charmide était l’oncle maternel de Platon.
+[←9]
+        Philippide descendait d’une ancienne famille d’Athènes.
+[←10]
+        Mendè, ville située sur la côte occidentale de la péninsule de Pallène. Antimoiros ne nous
+     est connu que par ce passage de Platon.
+[←11]
+        Début du vers 601 du livre XI de l’Odyssée.
+[←12]
+        Hippias d’Élis possédait une science étendue et se vantait, comme le fit plus tard Pic de la
+     Mirandole, de pouvoir improviser un discours sur n’importe quel sujet. Il réunit ses
+     connaissances dans une sorte de somme (Συναγωγή). Il distinguait la loi naturelle (φύσιξ) de la
+     loi humaine (νόµοξ), fondée sur l’usage et la convention.
+[←13]
+        De la porte de la maison, un étroit couloir conduisait dans la galerie de colonnes ou
+     portique, qui entourait des quatre côtés la cour. Il faut supposer que Protagoras se promène dans
+     la partie du portique qui touche à l’entrée, qu’Hippias est dans la galerie du fond, et que Socrate
+     et Hippocrate s’arrêtent quelques instants dans le couloir. De là, ils embrassent d’un coup d’œil
+     tout le portique et plongent leurs regards dans la chambre de Prodicos, qui s’ouvre sur la galerie
+     du fond.
+[←14]
+        Le médecin Éryximaque et son ami Phèdre sont deux personnages importants du Banquet.
+     Myrrhinunte est un dème de la tribu pandionide.
+[←15]
+        Andron figure aussi dans le Gorgias. Peut-être l’orateur Androtion était-il son fils.
+[←16]
+        Début du vers 583 du livre XI de l’Odyssée.
+[←17]
+        Pausanias, amant d’Agathon, est comme lui un des protagonistes du Banquet. Les
+     Kéramées étaient un dème de la tribu acamantide, au nordouest d’Athènes ; primitivement, le
+     quartier des potiers.
+[←18]
+        C’est la seule mention que nous connaissions de ce personnage.
+[←19]
+        Il était stratège à la bataille d’Ægos-Potamos, où il fut fait prisonnier. Il fut accusé par
+     Conon d’avoir trahi son pays, et sa fortune fut confisquée.
+[←20]
+        Critias, le plus connu des Trente Tyrans. Son père et le grand-père de Platon du côté
+     maternel étaient frères. Un scoliaste du Timée nous dit qu’il s’occupait de philosophie, et qu’il
+     passait pour un profane chez les philosophes, pour un philosophe chez les profanes.
+[←21]
+        On avait sous le nom d’Orphée et de Musée des oracles en vers qui furent recueillis par
+     Onomacrite.
+[←22]
+        Ikkos est mentionné dans les Lois, comme un modèle de tempérance. Il remporta le prix du
+     pentathle aux jeux Olympiques en 472 av. J-C., et se fit maître de gymnastique.
+[←23]
+        Hérodicos était maître de gymnastique et médecin. Valétudinaire, il sut prolonger sa vie
+     jusqu’à un âge avancé par un régime sévère. Natif de Mégare, il s’était fixé à Sélymbrie, sur la
+     Propontide.
+[←24]
+        Agathoclès est mentionné dans le Lachès, comme maître de Damon, le maître de musique
+     de Périclès.
+[←25]
+        Pythoclidès enseigna aussi la musique à Périclès.
+[←26]
+        On suppose que ce Zeuxippos est le fameux peintre Zeuxis d’Héraclée (ville de la Grande-
+     Grèce). Zeuxis serait le diminutif familier de Zeuxippos.
+[←27]
+        Orthagoras fut le maître de flûte d’Épaminondas. L’art de la flûte était un grand honneur à
+     Thèbes.
+[←28]
+        C’étaient des esclaves de l’État, qu’on désignait aussi par le nom de Scythes, parce que la
+     plupart étaient Scythes d’origine.
+[←29]
+        Après la mort de Clinias, tué à Chéronée en 447, Ariphron et son frère Périclès deviennent
+     les tuteurs des fils de Clinias, leurs cousins. Les deux orphelins vivaient sans doute avec leur
+     mère Dynomaché, dans la maison de leur père. Périclès ordonna la séparation, lorsque Alcibiade
+     devint majeur.
+[←30]
+        Prométhée et Épiméthée étaient fils de Japet et de Climène (voir Hésiode, Théogonie, 553).
+[←31]
+        Zeus est dieu de l’air, et préside aux phénomènes atmosphériques.
+[←32]
+        La Force et la Violence (voir Hésiode, Théogonie, 385 sqq.).
+[←33]
+        Ce mot est le mot άρετγ, qui signifie non seulement vertu, mais toute espèce de mérite, de
+     talent, de qualité.
+[←34]
+        Cf. Sénèque, De Ira, I, 16, 21 : Nam, ut air Plato, nemo prudens punit, quia pecccutun est,
+     sed ne peccetur ; revocari enim praeterita non possunt, futura prohibentur et quos solet
+     nequitiae male cedentis exempla fiori, palam occidet… ut alios pereundo deterreant.
+[←35]
+        Phérécrate, un des maîtres de l’ancienne comédie, fit représenter en 421-420 une comédie
+     intitulée Λγριοι, les Sauvages, dont les fragments qui nous restent ne laissent pas deviner le
+     contenu. On peut supposer, d’après ce passage, que des misanthropes retirés au désert y
+     rencontraient des sauvages dont la rudesse leur faisait apprécier les douceurs de la civilisation.
+[←36]
+        C’est-à-dire au théâtre, lequel était situé entre le Lénæon et le rocher de l’Acropole. Le
+     Lénæon, ou place du Pressoir, était un temple et une enceinte consacrés à Dionysos. On y
+     célébrait au mois de janvier (gamèlion) la fête des Lénéennes, dont la partie essentielle consistait
+     en représentations théâtrales.
+[←37]
+        Deux individus dont la méchanceté était passée en proverbe : Eurybate était ou un voleur
+     fameux, ou un Éphésien qui avait trahi Crésus ; Phrynondas, un coquin d’Athènes.
+[←38]
+        Le raisonnement est forcé. Si la justice n’est pas la sainteté, il ne s’ensuit pas qu’elle soit
+     l’impiété, et si la sainteté n’est pas la justice, il ne s’ensuit pas qu’elle soit l’injustice. Deux
+     choses peuvent être différentes, sans être forcément contraires.
+[←39]
+        Socrate abuse du double sens de σωφροσύνη, sagesse et tempérance, pour identifier la
+     sagesse (σοφια) avec la tempérance (σωφροσύνη). En réalité, il n’y a identité que si l’on prend
+     σωφροσύνη au sens de sagesse.
+[←40]
+        Ne pas bien agir n’est pas nécessairement agir follement : il n’y a pas égalité entre ces deux
+     termes. Ce raisonnement est donc un sophisme.
+[←41]
+        Socrate essaie de prouver qu’une chose ne peut avoir qu’un contraire. C’est vrai, si nous
+     donnons au mot contraire le sens de opposé contradictoirement, si, par exemple, nous nous
+     bornons à dire que le contraire du beau est le non-beau ; mais quand nous disons que le contraire
+     du beau est le laid, nous reconnaissons au beau deux contraires, puisque le non-beau n’est pas le
+     laid, et qu’il peut être tout, excepté beau. Le vice de cette argumentation vient de ce que Socrate
+     confond les termes contraire et contradictoire.
+[←42]
+        Se rappeler que le mot σώφων signifie à la fois tempérant et prudent. C’est au second sens
+     que le mot est pris désormais ; c’est pourquoi je traduis par prudent pour la clarté du
+     raisonnement.
+[←43]
+        S’agit-il d’huile parfumée dont on aspergeait les aliments une fois cuits ? Nous n’en savons
+     rien, et l’on ne trouve aucun détail similaire chez les auteurs anciens.
+[←44]
+        Crison d’Himère, en Sicile, fut trois fois vainqueur au stade en 448, 444, 440 av. J.-C.
+[←45]
+        Messager rapide, qui parcourait en un jour une longue distance, comme ce Phidippide qui
+     fut envoyé d’Athènes à Sparte au temps de la bataille de Marathon.
+[←46]
+        Ce discours est un pastiche du style de Prodicos et des distinctions qu’il faisait entre les
+     synonymes. Il faisait payer 50 drachmes chacune de ses leçons sur la synonymie, qu’il appelait
+     όρθότηξ τών όνοµάτων.
+[←47]
+        Les sophistes soutenaient que les lois ne sont que des décisions arbitraires de quelques
+     hommes puissants ou de la foule. C’était la doctrine qu’enseignait Hippias, au dire de Xénophon,
+     Mémorables, IV, 4, 14.
+[←48]
+        Les Scopades, famille noble de Thessalie, étaient célèbres par leurs richesses. Ils régnaient à
+     Crannon et à Pharsale. Simonide de Céos fut souvent leur hôte, et composa plusieurs poèmes en
+     leur honneur, notamment un chant de victoire, où l’éloge des Dioscures tenait une trop large
+     place, au sentiment des Scopades (cf. Cicéron, De Oratore, 2, § 352 et Phèdre, fable 75), et un
+     thrène où il déplorait la mort d’une grande partie des membres de cette famille, écrasés dans leur
+     salle à manger par la chute du plafond.
+[←49]
+        Le carré était pour les pythagoriciens le symbole du parfait et du divin.
+[←50]
+        Périandre, tyran de Corinthe, après avoir gouverné d’abord avec sagesse et modération,
+     devint cruel et despotique. Pittacos de Mytilène, l’ayant appris, quitta le pouvoir, pour ne pas
+     exposer sa vertu à un pareil changement et partit pour l’exil. Comme on lui demandait pourquoi
+     il avait résigné le pouvoir, il répondit : « Parce qu’il est difficile d’être homme de bien, si l’on en
+     juge par le changement de Périandre. »
+[←51]
+        Homère, Iliade, XXI, 308.
+[←52]
+        Hésiode, Travaux et Jours, 285 sqq.
+[←53]
+        Le mot χαλεπόξ signifie difficile et par extension difficile à supporter, fâcheux, donc
+     mauvais. Le mot δεινόξ signifie terrible ; de ce sens deux autres sont dérivés : celui de
+     malfaisant, funeste, et celui de merveilleusement doué, extraordinairement habile.
+[←54]
+        Le dialecte éolien.
+[←55]
+        Socrate s’amuse à persifler la science des synonymes dont Prodicos était si fier et à
+     mystifier cruellement celui dont il se dit l’élève. Il amène le sophiste, aveuglé par la louange, à
+     dire une absurdité, à avancer contre toute évidence que difficile veut dire mauvais dans le texte
+     de Simonide, et à faire là-dessus parade de sa science du langage et à traiter Pittacos de barbare.
+     Puis brusquement Socrate déclare que tout ce déploiement de science, pris au sérieux par
+     Prodicos, n’était que plaisanterie et n’avait pour but que d’éprouver Protagoras. Prodicos reste
+     confondu avec sa courte honte.
+[←56]
+        Les habitants de Céos étaient renommés pour la sévérité et la pureté de leurs mœurs. Dans
+     les Lois, I, 638 b, Platon cite la conquête de Céos par Athènes, pour prouver que la victoire et la
+     vertu sont souvent dans des camps opposés.
+[←57]
+        Les oreilles des boxeurs portaient la trace des coups de poing.
+[←58]
+        Ordinairement c’est Périandre qui tient la place de Mison dans la liste des sept Sages ; mais
+     Platon se refuse à mettre un tyran au nombre des sages. Mison était un paysan de Khéné, près du
+     mont Œta, que la Pythie déclara le plus sage des hommes (v. Hipponax, frg. 45 et Diogène
+     Laërce, I, 106).
+[←59]
+        Dans le texte de Simonide, le mot véritablement, porte bien sur vertueux ; mais Socrate
+     torture le texte, et raisonne ici comme un véritable sophiste.
+[←60]
+        Xénophon, Mémorables, I, 2, 20, cite aussi le vers, mais sans nommer l’auteur. C’est sans
+     doute quelque poète gnomique.
+[←61]
+        Simonide prend les expressions εύ et χαχώξ πράττειν au sens de bien ou mal agir, et déclare
+     bon ou mauvais tout homme qui fait un acte bon ou mauvais. Socrate, pour qui la vertu est
+     science et le vice ignorance, interprète εύ et χαχώξ πράττειν, non pas dans le sens d’action isolée,
+     mais d’état habituel, de disposition acquise par l’esprit. C’est par cette interprétation forcée qu’il
+     tire à lui Simonide et retrouve sa propre doctrine en ces vers si contraires au principe de sa
+     morale.
+[←62]
+        L’argument est spécieux : en réalité un mauvais médecin est un ignorant qui pratique la
+     médecine de travers, et non un bon médecin qui a perdu son talent.
+[←63]
+        Il saute aux yeux que le mot volontairement se rapporte à fait et non à aime. Socrate fait au
+     texte une étrange violence pour l’accommoder à ses vues.
+[←64]
+        Allusion aux relations de Simonide avec des tyrans comme Scopas, Hipparque, Hiéron.
+[←65]
+        Il y a ici, au lieu de έπχινώ le mot έπχινηµι, qui est du dialecte lesbien ; mais ces formes
+     sont fréquentes, même chez les lyriques doriens, et Simonide ne songeait sûrement pas à
+     Pittacos.
+[←66]
+        Homère, Iliade, X, 224-226 : « Quand deux hommes vont ensemble, l’un remarque avant
+     l’autre ce qui peut leur servir. Si un seul fait l’observation, toujours est-il que son esprit est plus
+     court et sa prudence bornée. »
+[←67]
+        Raisonnement inexact. Si en général un homme instruit ou entraîné est plus hardi qu’avant
+     de l’être ou qu’un autre qui ne l’est pas, il ne s’ensuit pas que l’entraînement et le courage soient
+     une même chose : l’entraînement ajoute au courage, il ne le crée pas ; et en effet, il ne manque
+     pas d’hommes entraînés qui sont des lâches devant le danger.
+[←68]
+        La différence est plus marquée entre les deux mots grecs ιαχνρόξ, vigoureux et δνατόξ, fort,
+     puissant, capable de faire quelque chose, qu’entre les deux adjectifs français vigoureux et fort.
+[←69]
+        Ils peuvent différer aussi par l’incertitude du plaisir ou de la peine à venir : on peut mourir
+     dans l’intervalle.
+[←70]
+        Il y a ici un jeu de mots intraduisible sur le nom propre ІІροµηθεύξ, le Prévoyant, et le
+     participe πρµηθούµενοξ, prévoyant.
